@@ -12,6 +12,11 @@
         {
             $this->load->view('signin');
         } 
+
+        function home()
+        {
+            $this->load->view("index");
+        }
     }
 
 
