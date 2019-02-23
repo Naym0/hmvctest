@@ -1169,3 +1169,66 @@ DEBUG - 2019-02-23 20:27:54 --> Registration MX_Controller Initialized
 DEBUG - 2019-02-23 20:27:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/views/signup.php
 INFO - 2019-02-23 20:27:54 --> Final output sent to browser
 DEBUG - 2019-02-23 20:27:54 --> Total execution time: 0.3377
+INFO - 2019-02-23 21:27:35 --> Config Class Initialized
+INFO - 2019-02-23 21:27:35 --> Hooks Class Initialized
+DEBUG - 2019-02-23 21:27:35 --> UTF-8 Support Enabled
+INFO - 2019-02-23 21:27:35 --> Utf8 Class Initialized
+INFO - 2019-02-23 21:27:35 --> URI Class Initialized
+INFO - 2019-02-23 21:27:35 --> Router Class Initialized
+INFO - 2019-02-23 21:27:36 --> Output Class Initialized
+INFO - 2019-02-23 21:27:36 --> Security Class Initialized
+DEBUG - 2019-02-23 21:27:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-23 21:27:36 --> Input Class Initialized
+INFO - 2019-02-23 21:27:36 --> Language Class Initialized
+INFO - 2019-02-23 21:27:36 --> Language Class Initialized
+INFO - 2019-02-23 21:27:36 --> Config Class Initialized
+INFO - 2019-02-23 21:27:36 --> Loader Class Initialized
+INFO - 2019-02-23 21:27:37 --> Database Driver Class Initialized
+INFO - 2019-02-23 21:27:37 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-23 21:27:37 --> Controller Class Initialized
+DEBUG - 2019-02-23 21:27:37 --> Registration MX_Controller Initialized
+DEBUG - 2019-02-23 21:27:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/views/signup.php
+INFO - 2019-02-23 21:27:37 --> Final output sent to browser
+DEBUG - 2019-02-23 21:27:37 --> Total execution time: 2.9458
+INFO - 2019-02-23 21:28:30 --> Config Class Initialized
+INFO - 2019-02-23 21:28:30 --> Hooks Class Initialized
+DEBUG - 2019-02-23 21:28:30 --> UTF-8 Support Enabled
+INFO - 2019-02-23 21:28:30 --> Utf8 Class Initialized
+INFO - 2019-02-23 21:28:30 --> URI Class Initialized
+INFO - 2019-02-23 21:28:30 --> Router Class Initialized
+INFO - 2019-02-23 21:28:30 --> Output Class Initialized
+INFO - 2019-02-23 21:28:30 --> Security Class Initialized
+DEBUG - 2019-02-23 21:28:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-23 21:28:30 --> Input Class Initialized
+INFO - 2019-02-23 21:28:30 --> Language Class Initialized
+INFO - 2019-02-23 21:28:30 --> Language Class Initialized
+INFO - 2019-02-23 21:28:31 --> Config Class Initialized
+INFO - 2019-02-23 21:28:31 --> Loader Class Initialized
+INFO - 2019-02-23 21:28:31 --> Database Driver Class Initialized
+INFO - 2019-02-23 21:28:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-23 21:28:31 --> Controller Class Initialized
+DEBUG - 2019-02-23 21:28:31 --> Registration MX_Controller Initialized
+DEBUG - 2019-02-23 21:28:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/views/signup.php
+INFO - 2019-02-23 21:28:31 --> Final output sent to browser
+DEBUG - 2019-02-23 21:28:31 --> Total execution time: 0.7614
+INFO - 2019-02-23 21:28:32 --> Config Class Initialized
+INFO - 2019-02-23 21:28:32 --> Hooks Class Initialized
+DEBUG - 2019-02-23 21:28:32 --> UTF-8 Support Enabled
+INFO - 2019-02-23 21:28:32 --> Utf8 Class Initialized
+INFO - 2019-02-23 21:28:32 --> URI Class Initialized
+INFO - 2019-02-23 21:28:32 --> Router Class Initialized
+INFO - 2019-02-23 21:28:32 --> Output Class Initialized
+INFO - 2019-02-23 21:28:32 --> Security Class Initialized
+DEBUG - 2019-02-23 21:28:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-23 21:28:32 --> Input Class Initialized
+INFO - 2019-02-23 21:28:32 --> Language Class Initialized
+INFO - 2019-02-23 21:28:32 --> Language Class Initialized
+INFO - 2019-02-23 21:28:32 --> Config Class Initialized
+INFO - 2019-02-23 21:28:32 --> Loader Class Initialized
+INFO - 2019-02-23 21:28:32 --> Database Driver Class Initialized
+INFO - 2019-02-23 21:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-23 21:28:32 --> Controller Class Initialized
+DEBUG - 2019-02-23 21:28:32 --> Registration MX_Controller Initialized
+DEBUG - 2019-02-23 21:28:32 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/views/signup.php
+INFO - 2019-02-23 21:28:32 --> Final output sent to browser
+DEBUG - 2019-02-23 21:28:32 --> Total execution time: 0.4292
