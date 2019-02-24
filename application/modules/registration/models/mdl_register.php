@@ -11,15 +11,24 @@
         function saverecords($data)
         {
             $data = array (
-                $id=$this->input->post('ID';)
-                $name=$this->input->post('name');
-                $email=
-                $sex=
-                $Dob=
-                $pas1=
-                $pas2=
-            )
-        }
+                $id=$this->input->post('ID'),
+                $name=$this->input->post('names'),
+                $email=$this->input->post('email'),
+                $sex=$this->input->post('sex'),
+                $dob=$this->input->post('dob'),
+                $uPass=$this->input->post('pass1'),
+                $pass=password_hash($uPass, PASSWORD_BCRYPT)
+            );
+
+            $query="INSERT INTO users VALUES('$id','$name','$email','$sex','$dob','$pass')";
+            $this->db->query($query);
+
+            echo "<script language='javascript'>
+                    alert('Successful Login');
+                    window.location='Login';
+                 </script>";
+	    }
+        
     }
 
 ?>

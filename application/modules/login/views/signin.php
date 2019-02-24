@@ -10,8 +10,8 @@
 </head>
 <body><br>
     <div id="card" class="card bg-light mb-3" style="width: 30rem; margin-top:6.5rem; ">
-        <h2 style = "text-align: center;"><u> Log In </u></h2><br>
-            <form action="processes/AutRegistration.php" method="post" style = "text-align: center;">
+        <h2><u> Log In </u></h2><br>
+            <form action="processes/AutRegistration.php" method="post">
                 ID Number:<br>
                     <input type="text" name="ID" required><br><br>
                 Password:<br>
