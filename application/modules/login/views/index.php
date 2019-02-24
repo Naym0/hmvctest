@@ -8,3 +8,6 @@
     <link rel="shortcut icon" type="image/png" href="<?php echo base_url(); ?>assets/favicon.png">
 
 </head>
+<body>
+
+</body>

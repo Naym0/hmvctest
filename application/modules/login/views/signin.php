@@ -11,13 +11,18 @@
 <body><br>
     <div id="card" class="card bg-light mb-3" style="width: 30rem; margin-top:6.5rem; ">
         <h2><u> Log In </u></h2><br>
+
+    <?php echo form_open('Login/auth'); ?>
+
             <form action="processes/AutRegistration.php" method="post">
                 ID Number:<br>
-                    <input type="text" name="ID" required><br><br>
+                    <?php echo form_error('ID'); ?>
+                    <input type="text" name="ID" value="<?php echo set_value('ID'); ?>" required><br><br>
                 Password:<br>
+                    <?php echo form_error('password'); ?>
                     <input type="password" name="pass" required><br><br>
 
-                <button type="button" class="btn btn-outline-info">Log In</button>
+                <button type="submit" class="btn btn-outline-info">Log In</button>
             
                 <br><br>
 

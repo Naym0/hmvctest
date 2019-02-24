@@ -8,14 +8,24 @@
             // Your own constructor code
         }
 
-        function index()
+        function index()  //controller to load registration page
         {
             $this->load->view('signin');
         } 
 
-        function home()
+        function home()  //controller to load landing page
         {
             $this->load->view("index");
+        }
+
+        function auth()  //login contoller
+        {
+			$this->load->model('mdl_login');
+			
+			$ID=$this->input->post("ID");
+			$password=$this->input->post("pass");
+
+            $this->mdl_login->authenticate($ID,$password);
         }
     }
 
