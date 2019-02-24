@@ -24,8 +24,8 @@
             $this->db->query($query);
 
             echo "<script language='javascript'>
-                    alert('Successful Login');
-                    window.location='Login';
+                    alert('Successful Registration');
+                    window.location='../Login';
                  </script>";
 	    }
         

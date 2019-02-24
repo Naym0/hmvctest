@@ -5549,3 +5549,168 @@ DEBUG - 2019-02-24 12:28:18 --> Login MX_Controller Initialized
 DEBUG - 2019-02-24 12:28:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
 INFO - 2019-02-24 12:28:18 --> Final output sent to browser
 DEBUG - 2019-02-24 12:28:18 --> Total execution time: 0.7324
+INFO - 2019-02-24 12:39:27 --> Config Class Initialized
+INFO - 2019-02-24 12:39:27 --> Hooks Class Initialized
+DEBUG - 2019-02-24 12:39:27 --> UTF-8 Support Enabled
+INFO - 2019-02-24 12:39:28 --> Utf8 Class Initialized
+INFO - 2019-02-24 12:39:28 --> URI Class Initialized
+INFO - 2019-02-24 12:39:28 --> Router Class Initialized
+INFO - 2019-02-24 12:39:28 --> Output Class Initialized
+INFO - 2019-02-24 12:39:28 --> Security Class Initialized
+DEBUG - 2019-02-24 12:39:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 12:39:28 --> Input Class Initialized
+INFO - 2019-02-24 12:39:28 --> Language Class Initialized
+INFO - 2019-02-24 12:39:28 --> Language Class Initialized
+INFO - 2019-02-24 12:39:28 --> Config Class Initialized
+INFO - 2019-02-24 12:39:28 --> Loader Class Initialized
+INFO - 2019-02-24 12:39:28 --> Helper loaded: html_helper
+INFO - 2019-02-24 12:39:28 --> Helper loaded: url_helper
+INFO - 2019-02-24 12:39:28 --> Helper loaded: form_helper
+INFO - 2019-02-24 12:39:28 --> Helper loaded: text_helper
+INFO - 2019-02-24 12:39:28 --> Helper loaded: string_helper
+INFO - 2019-02-24 12:39:28 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 12:39:28 --> Database Driver Class Initialized
+INFO - 2019-02-24 12:39:28 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 12:39:28 --> Form Validation Class Initialized
+INFO - 2019-02-24 12:39:28 --> Controller Class Initialized
+DEBUG - 2019-02-24 12:39:28 --> Registration MX_Controller Initialized
+DEBUG - 2019-02-24 12:39:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/views/signup.php
+INFO - 2019-02-24 12:39:28 --> Final output sent to browser
+DEBUG - 2019-02-24 12:39:28 --> Total execution time: 1.0832
+INFO - 2019-02-24 12:40:07 --> Config Class Initialized
+INFO - 2019-02-24 12:40:07 --> Hooks Class Initialized
+DEBUG - 2019-02-24 12:40:07 --> UTF-8 Support Enabled
+INFO - 2019-02-24 12:40:07 --> Utf8 Class Initialized
+INFO - 2019-02-24 12:40:07 --> URI Class Initialized
+INFO - 2019-02-24 12:40:07 --> Router Class Initialized
+INFO - 2019-02-24 12:40:07 --> Output Class Initialized
+INFO - 2019-02-24 12:40:07 --> Security Class Initialized
+DEBUG - 2019-02-24 12:40:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 12:40:08 --> Input Class Initialized
+INFO - 2019-02-24 12:40:08 --> Language Class Initialized
+INFO - 2019-02-24 12:40:08 --> Language Class Initialized
+INFO - 2019-02-24 12:40:08 --> Config Class Initialized
+INFO - 2019-02-24 12:40:08 --> Loader Class Initialized
+INFO - 2019-02-24 12:40:08 --> Helper loaded: html_helper
+INFO - 2019-02-24 12:40:08 --> Helper loaded: url_helper
+INFO - 2019-02-24 12:40:08 --> Helper loaded: form_helper
+INFO - 2019-02-24 12:40:08 --> Helper loaded: text_helper
+INFO - 2019-02-24 12:40:08 --> Helper loaded: string_helper
+INFO - 2019-02-24 12:40:08 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 12:40:08 --> Database Driver Class Initialized
+INFO - 2019-02-24 12:40:08 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 12:40:08 --> Form Validation Class Initialized
+INFO - 2019-02-24 12:40:08 --> Controller Class Initialized
+DEBUG - 2019-02-24 12:40:08 --> Registration MX_Controller Initialized
+INFO - 2019-02-24 12:40:08 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2019-02-24 12:40:08 --> Model Class Initialized
+DEBUG - 2019-02-24 12:40:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/models/Mdl_register.php
+INFO - 2019-02-24 12:40:08 --> Model Class Initialized
+INFO - 2019-02-24 12:40:08 --> Final output sent to browser
+DEBUG - 2019-02-24 12:40:08 --> Total execution time: 1.2170
+INFO - 2019-02-24 12:40:12 --> Config Class Initialized
+INFO - 2019-02-24 12:40:12 --> Hooks Class Initialized
+DEBUG - 2019-02-24 12:40:12 --> UTF-8 Support Enabled
+INFO - 2019-02-24 12:40:12 --> Utf8 Class Initialized
+INFO - 2019-02-24 12:40:12 --> URI Class Initialized
+INFO - 2019-02-24 12:40:12 --> Router Class Initialized
+INFO - 2019-02-24 12:40:12 --> Output Class Initialized
+INFO - 2019-02-24 12:40:12 --> Security Class Initialized
+DEBUG - 2019-02-24 12:40:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 12:40:12 --> Input Class Initialized
+INFO - 2019-02-24 12:40:12 --> Language Class Initialized
+INFO - 2019-02-24 12:40:13 --> Language Class Initialized
+INFO - 2019-02-24 12:40:13 --> Config Class Initialized
+INFO - 2019-02-24 12:40:13 --> Loader Class Initialized
+INFO - 2019-02-24 12:40:13 --> Helper loaded: html_helper
+INFO - 2019-02-24 12:40:13 --> Helper loaded: url_helper
+INFO - 2019-02-24 12:40:13 --> Helper loaded: form_helper
+INFO - 2019-02-24 12:40:13 --> Helper loaded: text_helper
+INFO - 2019-02-24 12:40:13 --> Helper loaded: string_helper
+INFO - 2019-02-24 12:40:13 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 12:40:13 --> Database Driver Class Initialized
+INFO - 2019-02-24 12:40:13 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 12:40:13 --> Form Validation Class Initialized
+INFO - 2019-02-24 12:40:13 --> Controller Class Initialized
+ERROR - 2019-02-24 12:40:13 --> 404 Page Not Found: ../modules/Registration/controllers/Registration/Login
+INFO - 2019-02-24 12:40:40 --> Config Class Initialized
+INFO - 2019-02-24 12:40:40 --> Hooks Class Initialized
+DEBUG - 2019-02-24 12:40:40 --> UTF-8 Support Enabled
+INFO - 2019-02-24 12:40:40 --> Utf8 Class Initialized
+INFO - 2019-02-24 12:40:40 --> URI Class Initialized
+INFO - 2019-02-24 12:40:40 --> Router Class Initialized
+INFO - 2019-02-24 12:40:40 --> Output Class Initialized
+INFO - 2019-02-24 12:40:40 --> Security Class Initialized
+DEBUG - 2019-02-24 12:40:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 12:40:40 --> Input Class Initialized
+INFO - 2019-02-24 12:40:40 --> Language Class Initialized
+INFO - 2019-02-24 12:40:40 --> Language Class Initialized
+INFO - 2019-02-24 12:40:40 --> Config Class Initialized
+INFO - 2019-02-24 12:40:40 --> Loader Class Initialized
+INFO - 2019-02-24 12:40:40 --> Helper loaded: html_helper
+INFO - 2019-02-24 12:40:40 --> Helper loaded: url_helper
+INFO - 2019-02-24 12:40:40 --> Helper loaded: form_helper
+INFO - 2019-02-24 12:40:40 --> Helper loaded: text_helper
+INFO - 2019-02-24 12:40:40 --> Helper loaded: string_helper
+INFO - 2019-02-24 12:40:40 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 12:40:40 --> Database Driver Class Initialized
+INFO - 2019-02-24 12:40:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 12:40:40 --> Form Validation Class Initialized
+INFO - 2019-02-24 12:40:40 --> Controller Class Initialized
+ERROR - 2019-02-24 12:40:40 --> 404 Page Not Found: ../modules/Registration/controllers/Registration/Login
+INFO - 2019-02-24 12:40:41 --> Config Class Initialized
+INFO - 2019-02-24 12:40:41 --> Hooks Class Initialized
+DEBUG - 2019-02-24 12:40:41 --> UTF-8 Support Enabled
+INFO - 2019-02-24 12:40:42 --> Utf8 Class Initialized
+INFO - 2019-02-24 12:40:42 --> URI Class Initialized
+INFO - 2019-02-24 12:40:42 --> Router Class Initialized
+INFO - 2019-02-24 12:40:42 --> Output Class Initialized
+INFO - 2019-02-24 12:40:42 --> Security Class Initialized
+DEBUG - 2019-02-24 12:40:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 12:40:42 --> Input Class Initialized
+INFO - 2019-02-24 12:40:42 --> Language Class Initialized
+INFO - 2019-02-24 12:40:42 --> Language Class Initialized
+INFO - 2019-02-24 12:40:42 --> Config Class Initialized
+INFO - 2019-02-24 12:40:42 --> Loader Class Initialized
+INFO - 2019-02-24 12:40:42 --> Helper loaded: html_helper
+INFO - 2019-02-24 12:40:42 --> Helper loaded: url_helper
+INFO - 2019-02-24 12:40:42 --> Helper loaded: form_helper
+INFO - 2019-02-24 12:40:42 --> Helper loaded: text_helper
+INFO - 2019-02-24 12:40:42 --> Helper loaded: string_helper
+INFO - 2019-02-24 12:40:42 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 12:40:42 --> Database Driver Class Initialized
+INFO - 2019-02-24 12:40:42 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 12:40:42 --> Form Validation Class Initialized
+INFO - 2019-02-24 12:40:42 --> Controller Class Initialized
+DEBUG - 2019-02-24 12:40:42 --> Registration MX_Controller Initialized
+DEBUG - 2019-02-24 12:40:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Registration/views/signup.php
+INFO - 2019-02-24 12:40:42 --> Final output sent to browser
+DEBUG - 2019-02-24 12:40:42 --> Total execution time: 0.7595
+INFO - 2019-02-24 12:40:48 --> Config Class Initialized
+INFO - 2019-02-24 12:40:48 --> Hooks Class Initialized
+DEBUG - 2019-02-24 12:40:48 --> UTF-8 Support Enabled
+INFO - 2019-02-24 12:40:48 --> Utf8 Class Initialized
+INFO - 2019-02-24 12:40:48 --> URI Class Initialized
+INFO - 2019-02-24 12:40:48 --> Router Class Initialized
+INFO - 2019-02-24 12:40:48 --> Output Class Initialized
+INFO - 2019-02-24 12:40:48 --> Security Class Initialized
+DEBUG - 2019-02-24 12:40:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 12:40:48 --> Input Class Initialized
+INFO - 2019-02-24 12:40:48 --> Language Class Initialized
+INFO - 2019-02-24 12:40:48 --> Language Class Initialized
+INFO - 2019-02-24 12:40:48 --> Config Class Initialized
+INFO - 2019-02-24 12:40:48 --> Loader Class Initialized
+INFO - 2019-02-24 12:40:48 --> Helper loaded: html_helper
+INFO - 2019-02-24 12:40:48 --> Helper loaded: url_helper
+INFO - 2019-02-24 12:40:48 --> Helper loaded: form_helper
+INFO - 2019-02-24 12:40:48 --> Helper loaded: text_helper
+INFO - 2019-02-24 12:40:48 --> Helper loaded: string_helper
+INFO - 2019-02-24 12:40:48 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 12:40:48 --> Database Driver Class Initialized
+INFO - 2019-02-24 12:40:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 12:40:48 --> Form Validation Class Initialized
+INFO - 2019-02-24 12:40:49 --> Controller Class Initialized
+DEBUG - 2019-02-24 12:40:49 --> Login MX_Controller Initialized
+DEBUG - 2019-02-24 12:40:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 12:40:49 --> Final output sent to browser
+DEBUG - 2019-02-24 12:40:49 --> Total execution time: 0.7971
