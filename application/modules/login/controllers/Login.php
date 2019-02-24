@@ -27,6 +27,16 @@
 
             $this->mdl_login->authenticate($ID,$password);
         }
+
+        function logout()  //controller to logout
+        {
+            $this->load->view('signin');
+            echo "<script language='javascript'>
+                    alert('Thank you for visiting');
+                    window.location='../Login';
+                    </script>";	
+            $this->session->sess_destroy();
+        }
     }
 
 
