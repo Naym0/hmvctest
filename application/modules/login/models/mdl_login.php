@@ -12,38 +12,50 @@
         {   
             $ID=$this->input->post("ID");
             $password=$this->input->post("pass");
-            $pass=password_hash($password, PASSWORD_BCRYPT);
 
-			$this->db->select('ID','Names','Password');
-			$this->db->from('users');
-            $this->db->where(array ('ID' => $ID, 'Password' => $pass));
+            //query
+            $this->db->select('*');
+            $this->db->from('users');
+            $this->db->where('Id', $ID);
+            // $this->db->where;
             
-			$query = $this->db->get();
-			$queryResult = $query->result_array();
-            
-			if ($query == true)
-			{
-                    $this->session->set_userdata('Id', '$ID');	
-                    $this->session->sess_expiration = '10';
-                    echo "<script language='javascript'>
-                    alert('Successful Login!');
-                    window.location='../Login/home';
-                    </script>";	     
-            
-                // else 
-                // {
-                //     echo "<script language='javascript'>
-                //     alert('Incorrect Password. Please try again.');
-                //     window.location='../Login';
-                //     </script>";
-                // }
-            }
-            else
+            // Run the query
+            $query = $this->db->get();
+
+            //if there are any results
+            if($query==true)
             {
-                "<script language='javascript'>
-                    alert('Incorrect Login. Please try again.');
+                $row = $query->row();
+                if (password_verify($password, $row->Password))
+                {
+                    //Create session data
+                    $data = array(
+                            'userid' => $row->ID,
+                            'username' => $row->Names,
+                            'email' => $row->Email,
+                            );
+                    $this->session->set_userdata($data);
+
+                    echo "<script language='javascript'>
+                        alert('Successful Login!');
+                        window.location='../Login/home';
+                        </script>";	
+                    echo $data;
+                }
+                else 
+                {
+                    echo "<script language='javascript'>
+                    alert('Incorrect Password. Please try again.');
+                    window.location='../Login/';
+                    </script>";	
+                }
+            }
+            else 
+            {
+                echo "<script language='javascript'>
+                    alert('Error! Incorrect ID');
                     window.location='../Login';
-                 </script>";
+                    </script>";	
             }
         }
     }
