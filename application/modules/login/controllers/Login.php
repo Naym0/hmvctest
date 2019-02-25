@@ -15,6 +15,7 @@
 
         function home()  //controller to load landing page
         {
+            $this->load->library('session');
             $this->load->view("index");
         }
 

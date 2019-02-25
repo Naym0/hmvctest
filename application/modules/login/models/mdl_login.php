@@ -40,7 +40,9 @@
                         alert('Successful Login!');
                         window.location='../Login/home';
                         </script>";	
-                    echo $data;
+                    
+                        // echo $this->session->userdata('username');
+                        // print_r($_SESSION);
                 }
                 else 
                 {
