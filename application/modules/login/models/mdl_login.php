@@ -14,33 +14,22 @@
             $password=$this->input->post("pass");
             $pass=password_hash($password, PASSWORD_BCRYPT);
 
-			$this->db->select('*');
+			$this->db->select('ID','Names','Password');
 			$this->db->from('users');
             $this->db->where(array ('ID' => $ID, 'Password' => $pass));
             
 			$query = $this->db->get();
 			$queryResult = $query->result_array();
-            $user = $query ->row();
+            
 			if ($query == true)
 			{
-                    foreach ($queryResult as $user){
-                        $userID= $user['ID'];
-                        $userName = $user['Names'];
-                        $userEmail = $user['Email'];
-                    }
-                    
-                    $userArray = array(
-                        'Name' => $userName,
-                        'ID' => $userID,
-                        'Email' => $userEmail
-                    );
-
-                    $this->session->set_userdata($userArray);	
+                    $this->session->set_userdata('Id', '$ID');	
+                    $this->session->sess_expiration = '10';
                     echo "<script language='javascript'>
                     alert('Successful Login!');
                     window.location='../Login/home';
                     </script>";	     
-            }
+            
                 // else 
                 // {
                 //     echo "<script language='javascript'>
@@ -48,7 +37,7 @@
                 //     window.location='../Login';
                 //     </script>";
                 // }
-            
+            }
             else
             {
                 "<script language='javascript'>

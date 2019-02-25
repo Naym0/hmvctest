@@ -24,3 +24,4 @@
     <img src="<?php echo base_url(); ?>assets/gif.gif"><br><br>
     <p> You may now <a href="<?php echo base_url();?>Login/logout" >log out</a> at your own leisure </p>
 </body>
+</html>

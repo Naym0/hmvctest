@@ -20,6 +20,7 @@
 
         function auth()  //login contoller
         {
+            $this->load->library('session');
 			$this->load->model('mdl_login');
 			
 			$ID=$this->input->post("ID");
@@ -30,12 +31,12 @@
 
         function logout()  //controller to logout
         {
+            $this->session->sess_destroy();
             $this->load->view('signin');
             echo "<script language='javascript'>
                     alert('Thank you for visiting');
                     window.location='../Login';
-                    </script>";	
-            $this->session->sess_destroy();
+                    </script>";	        
         }
     }
 

@@ -9197,3 +9197,3367 @@ ERROR - 2019-02-24 17:05:33 --> Severity: Notice --> session_start(): A session 
 DEBUG - 2019-02-24 17:05:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
 INFO - 2019-02-24 17:05:33 --> Final output sent to browser
 DEBUG - 2019-02-24 17:05:33 --> Total execution time: 1.3750
+INFO - 2019-02-24 18:52:17 --> Config Class Initialized
+INFO - 2019-02-24 18:52:18 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:19 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:19 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:19 --> URI Class Initialized
+INFO - 2019-02-24 18:52:19 --> Router Class Initialized
+INFO - 2019-02-24 18:52:20 --> Output Class Initialized
+INFO - 2019-02-24 18:52:20 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:20 --> Input Class Initialized
+INFO - 2019-02-24 18:52:21 --> Language Class Initialized
+INFO - 2019-02-24 18:52:21 --> Language Class Initialized
+INFO - 2019-02-24 18:52:21 --> Config Class Initialized
+INFO - 2019-02-24 18:52:21 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:22 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:22 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:22 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:23 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:23 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:23 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:24 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:26 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:26 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:26 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:26 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:26 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:26 --> Total execution time: 9.3673
+INFO - 2019-02-24 18:52:27 --> Config Class Initialized
+INFO - 2019-02-24 18:52:27 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:27 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:27 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:27 --> URI Class Initialized
+INFO - 2019-02-24 18:52:27 --> Router Class Initialized
+INFO - 2019-02-24 18:52:27 --> Output Class Initialized
+INFO - 2019-02-24 18:52:27 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:28 --> Input Class Initialized
+INFO - 2019-02-24 18:52:28 --> Language Class Initialized
+INFO - 2019-02-24 18:52:28 --> Language Class Initialized
+INFO - 2019-02-24 18:52:28 --> Config Class Initialized
+INFO - 2019-02-24 18:52:28 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:28 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:28 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:28 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:28 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:28 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:28 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:28 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:29 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:29 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:29 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:29 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:29 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:29 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:29 --> Total execution time: 1.7867
+INFO - 2019-02-24 18:52:29 --> Config Class Initialized
+INFO - 2019-02-24 18:52:29 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:29 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:29 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:29 --> URI Class Initialized
+INFO - 2019-02-24 18:52:29 --> Router Class Initialized
+INFO - 2019-02-24 18:52:29 --> Output Class Initialized
+INFO - 2019-02-24 18:52:29 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:30 --> Input Class Initialized
+INFO - 2019-02-24 18:52:30 --> Language Class Initialized
+INFO - 2019-02-24 18:52:30 --> Language Class Initialized
+INFO - 2019-02-24 18:52:30 --> Config Class Initialized
+INFO - 2019-02-24 18:52:30 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:30 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:30 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:30 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:30 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:31 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:31 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:31 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:31 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:31 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:31 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:31 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:31 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:31 --> Total execution time: 2.3782
+INFO - 2019-02-24 18:52:31 --> Config Class Initialized
+INFO - 2019-02-24 18:52:31 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:31 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:32 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:32 --> URI Class Initialized
+INFO - 2019-02-24 18:52:32 --> Router Class Initialized
+INFO - 2019-02-24 18:52:32 --> Output Class Initialized
+INFO - 2019-02-24 18:52:32 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:33 --> Input Class Initialized
+INFO - 2019-02-24 18:52:33 --> Language Class Initialized
+INFO - 2019-02-24 18:52:33 --> Language Class Initialized
+INFO - 2019-02-24 18:52:33 --> Config Class Initialized
+INFO - 2019-02-24 18:52:33 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:33 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:33 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:33 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:33 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:33 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:33 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:33 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:33 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:33 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:33 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:33 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:34 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:34 --> Total execution time: 2.1412
+INFO - 2019-02-24 18:52:34 --> Config Class Initialized
+INFO - 2019-02-24 18:52:34 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:34 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:34 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:34 --> URI Class Initialized
+INFO - 2019-02-24 18:52:34 --> Router Class Initialized
+INFO - 2019-02-24 18:52:34 --> Output Class Initialized
+INFO - 2019-02-24 18:52:34 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:34 --> Input Class Initialized
+INFO - 2019-02-24 18:52:34 --> Language Class Initialized
+INFO - 2019-02-24 18:52:34 --> Language Class Initialized
+INFO - 2019-02-24 18:52:34 --> Config Class Initialized
+INFO - 2019-02-24 18:52:34 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:34 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:34 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:34 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:34 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:34 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:35 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:35 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:35 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:35 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:35 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:35 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:35 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:35 --> Total execution time: 1.2425
+INFO - 2019-02-24 18:52:35 --> Config Class Initialized
+INFO - 2019-02-24 18:52:36 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:36 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:36 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:36 --> URI Class Initialized
+INFO - 2019-02-24 18:52:36 --> Router Class Initialized
+INFO - 2019-02-24 18:52:36 --> Output Class Initialized
+INFO - 2019-02-24 18:52:36 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:36 --> Input Class Initialized
+INFO - 2019-02-24 18:52:36 --> Language Class Initialized
+INFO - 2019-02-24 18:52:36 --> Language Class Initialized
+INFO - 2019-02-24 18:52:37 --> Config Class Initialized
+INFO - 2019-02-24 18:52:37 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:37 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:37 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:37 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:37 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:37 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:38 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:38 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:39 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:40 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:41 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:41 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:41 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:41 --> Total execution time: 5.9804
+INFO - 2019-02-24 18:52:41 --> Config Class Initialized
+INFO - 2019-02-24 18:52:41 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:41 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:41 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:41 --> URI Class Initialized
+INFO - 2019-02-24 18:52:41 --> Router Class Initialized
+INFO - 2019-02-24 18:52:41 --> Output Class Initialized
+INFO - 2019-02-24 18:52:42 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:43 --> Input Class Initialized
+INFO - 2019-02-24 18:52:43 --> Language Class Initialized
+INFO - 2019-02-24 18:52:43 --> Language Class Initialized
+INFO - 2019-02-24 18:52:44 --> Config Class Initialized
+INFO - 2019-02-24 18:52:44 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:44 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:44 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:44 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:44 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:45 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:45 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:45 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:45 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:45 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:45 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:45 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:45 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:45 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:45 --> Total execution time: 3.8662
+INFO - 2019-02-24 18:52:46 --> Config Class Initialized
+INFO - 2019-02-24 18:52:46 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:46 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:46 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:46 --> URI Class Initialized
+INFO - 2019-02-24 18:52:46 --> Router Class Initialized
+INFO - 2019-02-24 18:52:46 --> Output Class Initialized
+INFO - 2019-02-24 18:52:46 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:46 --> Input Class Initialized
+INFO - 2019-02-24 18:52:46 --> Language Class Initialized
+INFO - 2019-02-24 18:52:46 --> Language Class Initialized
+INFO - 2019-02-24 18:52:47 --> Config Class Initialized
+INFO - 2019-02-24 18:52:47 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:47 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:47 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:47 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:47 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:47 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:47 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:48 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:48 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:48 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:48 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:48 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:48 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:48 --> Total execution time: 2.2515
+INFO - 2019-02-24 18:52:48 --> Config Class Initialized
+INFO - 2019-02-24 18:52:48 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:48 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:48 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:48 --> URI Class Initialized
+INFO - 2019-02-24 18:52:48 --> Router Class Initialized
+INFO - 2019-02-24 18:52:48 --> Output Class Initialized
+INFO - 2019-02-24 18:52:48 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:48 --> Input Class Initialized
+INFO - 2019-02-24 18:52:48 --> Language Class Initialized
+INFO - 2019-02-24 18:52:49 --> Language Class Initialized
+INFO - 2019-02-24 18:52:49 --> Config Class Initialized
+INFO - 2019-02-24 18:52:49 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:49 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:49 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:49 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:49 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:49 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:49 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:49 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:49 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:49 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:49 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:50 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:50 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:50 --> Total execution time: 2.0170
+INFO - 2019-02-24 18:52:50 --> Config Class Initialized
+INFO - 2019-02-24 18:52:50 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:50 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:50 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:50 --> URI Class Initialized
+INFO - 2019-02-24 18:52:50 --> Router Class Initialized
+INFO - 2019-02-24 18:52:50 --> Output Class Initialized
+INFO - 2019-02-24 18:52:50 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:51 --> Input Class Initialized
+INFO - 2019-02-24 18:52:51 --> Language Class Initialized
+INFO - 2019-02-24 18:52:51 --> Language Class Initialized
+INFO - 2019-02-24 18:52:51 --> Config Class Initialized
+INFO - 2019-02-24 18:52:51 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:51 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:51 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:51 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:51 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:51 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:51 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:51 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:52 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:52 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:52 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:52 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:52 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:52 --> Total execution time: 1.6366
+INFO - 2019-02-24 18:52:52 --> Config Class Initialized
+INFO - 2019-02-24 18:52:52 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:52 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:52 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:52 --> URI Class Initialized
+INFO - 2019-02-24 18:52:52 --> Router Class Initialized
+INFO - 2019-02-24 18:52:52 --> Output Class Initialized
+INFO - 2019-02-24 18:52:52 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:52 --> Input Class Initialized
+INFO - 2019-02-24 18:52:52 --> Language Class Initialized
+INFO - 2019-02-24 18:52:52 --> Language Class Initialized
+INFO - 2019-02-24 18:52:52 --> Config Class Initialized
+INFO - 2019-02-24 18:52:52 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:52 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:53 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:53 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:53 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:53 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:53 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:53 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:53 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:53 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:53 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:53 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:53 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:53 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:53 --> Total execution time: 1.2729
+INFO - 2019-02-24 18:52:53 --> Config Class Initialized
+INFO - 2019-02-24 18:52:53 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:53 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:53 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:53 --> URI Class Initialized
+INFO - 2019-02-24 18:52:53 --> Router Class Initialized
+INFO - 2019-02-24 18:52:54 --> Output Class Initialized
+INFO - 2019-02-24 18:52:54 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:54 --> Input Class Initialized
+INFO - 2019-02-24 18:52:54 --> Language Class Initialized
+INFO - 2019-02-24 18:52:54 --> Language Class Initialized
+INFO - 2019-02-24 18:52:54 --> Config Class Initialized
+INFO - 2019-02-24 18:52:54 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:54 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:54 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:54 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:54 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:54 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:54 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:54 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:54 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:54 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:54 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:54 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:54 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:55 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:55 --> Total execution time: 1.3770
+INFO - 2019-02-24 18:52:55 --> Config Class Initialized
+INFO - 2019-02-24 18:52:55 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:55 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:55 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:55 --> URI Class Initialized
+INFO - 2019-02-24 18:52:55 --> Router Class Initialized
+INFO - 2019-02-24 18:52:55 --> Output Class Initialized
+INFO - 2019-02-24 18:52:55 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:55 --> Input Class Initialized
+INFO - 2019-02-24 18:52:55 --> Language Class Initialized
+INFO - 2019-02-24 18:52:55 --> Language Class Initialized
+INFO - 2019-02-24 18:52:55 --> Config Class Initialized
+INFO - 2019-02-24 18:52:55 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:55 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:55 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:55 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:55 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:56 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:56 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:56 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:56 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:56 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:56 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:56 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:56 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:56 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:56 --> Total execution time: 1.6602
+INFO - 2019-02-24 18:52:56 --> Config Class Initialized
+INFO - 2019-02-24 18:52:57 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:57 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:57 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:57 --> URI Class Initialized
+INFO - 2019-02-24 18:52:57 --> Router Class Initialized
+INFO - 2019-02-24 18:52:57 --> Output Class Initialized
+INFO - 2019-02-24 18:52:57 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:57 --> Input Class Initialized
+INFO - 2019-02-24 18:52:57 --> Language Class Initialized
+INFO - 2019-02-24 18:52:57 --> Language Class Initialized
+INFO - 2019-02-24 18:52:57 --> Config Class Initialized
+INFO - 2019-02-24 18:52:57 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:57 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:57 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:57 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:57 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:57 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:57 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:57 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:57 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:57 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:58 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:58 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:58 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:58 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:58 --> Total execution time: 1.6047
+INFO - 2019-02-24 18:52:58 --> Config Class Initialized
+INFO - 2019-02-24 18:52:58 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:52:58 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:52:58 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:52:58 --> URI Class Initialized
+INFO - 2019-02-24 18:52:58 --> Router Class Initialized
+INFO - 2019-02-24 18:52:58 --> Output Class Initialized
+INFO - 2019-02-24 18:52:58 --> Security Class Initialized
+DEBUG - 2019-02-24 18:52:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:52:59 --> Input Class Initialized
+INFO - 2019-02-24 18:52:59 --> Language Class Initialized
+INFO - 2019-02-24 18:52:59 --> Language Class Initialized
+INFO - 2019-02-24 18:52:59 --> Config Class Initialized
+INFO - 2019-02-24 18:52:59 --> Loader Class Initialized
+INFO - 2019-02-24 18:52:59 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:52:59 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:52:59 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:52:59 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:52:59 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:52:59 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:52:59 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:52:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:52:59 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:52:59 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:52:59 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:52:59 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:52:59 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:52:59 --> Final output sent to browser
+DEBUG - 2019-02-24 18:52:59 --> Total execution time: 1.2704
+INFO - 2019-02-24 18:53:00 --> Config Class Initialized
+INFO - 2019-02-24 18:53:00 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:00 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:00 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:00 --> URI Class Initialized
+INFO - 2019-02-24 18:53:00 --> Router Class Initialized
+INFO - 2019-02-24 18:53:00 --> Output Class Initialized
+INFO - 2019-02-24 18:53:00 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:00 --> Input Class Initialized
+INFO - 2019-02-24 18:53:00 --> Language Class Initialized
+INFO - 2019-02-24 18:53:00 --> Language Class Initialized
+INFO - 2019-02-24 18:53:00 --> Config Class Initialized
+INFO - 2019-02-24 18:53:00 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:00 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:00 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:00 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:00 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:00 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:00 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:00 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:01 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:01 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:01 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:01 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:01 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:01 --> Total execution time: 1.2000
+INFO - 2019-02-24 18:53:01 --> Config Class Initialized
+INFO - 2019-02-24 18:53:01 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:01 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:01 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:01 --> URI Class Initialized
+INFO - 2019-02-24 18:53:01 --> Router Class Initialized
+INFO - 2019-02-24 18:53:01 --> Output Class Initialized
+INFO - 2019-02-24 18:53:01 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:01 --> Input Class Initialized
+INFO - 2019-02-24 18:53:01 --> Language Class Initialized
+INFO - 2019-02-24 18:53:01 --> Language Class Initialized
+INFO - 2019-02-24 18:53:01 --> Config Class Initialized
+INFO - 2019-02-24 18:53:01 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:02 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:02 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:02 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:02 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:02 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:02 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:02 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:02 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:02 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:02 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:02 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:02 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:03 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:03 --> Total execution time: 1.6216
+INFO - 2019-02-24 18:53:03 --> Config Class Initialized
+INFO - 2019-02-24 18:53:03 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:03 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:03 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:03 --> URI Class Initialized
+INFO - 2019-02-24 18:53:03 --> Router Class Initialized
+INFO - 2019-02-24 18:53:03 --> Output Class Initialized
+INFO - 2019-02-24 18:53:03 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:03 --> Input Class Initialized
+INFO - 2019-02-24 18:53:03 --> Language Class Initialized
+INFO - 2019-02-24 18:53:03 --> Language Class Initialized
+INFO - 2019-02-24 18:53:03 --> Config Class Initialized
+INFO - 2019-02-24 18:53:03 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:03 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:03 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:03 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:03 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:03 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:03 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:04 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:04 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:04 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:04 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:04 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:04 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:04 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:04 --> Total execution time: 1.2304
+INFO - 2019-02-24 18:53:04 --> Config Class Initialized
+INFO - 2019-02-24 18:53:04 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:04 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:04 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:04 --> URI Class Initialized
+INFO - 2019-02-24 18:53:04 --> Router Class Initialized
+INFO - 2019-02-24 18:53:04 --> Output Class Initialized
+INFO - 2019-02-24 18:53:04 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:04 --> Input Class Initialized
+INFO - 2019-02-24 18:53:04 --> Language Class Initialized
+INFO - 2019-02-24 18:53:05 --> Language Class Initialized
+INFO - 2019-02-24 18:53:05 --> Config Class Initialized
+INFO - 2019-02-24 18:53:05 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:05 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:05 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:05 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:05 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:05 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:05 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:05 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:05 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:05 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:05 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:05 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:05 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:06 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:06 --> Total execution time: 1.6524
+INFO - 2019-02-24 18:53:06 --> Config Class Initialized
+INFO - 2019-02-24 18:53:06 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:06 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:06 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:06 --> URI Class Initialized
+INFO - 2019-02-24 18:53:06 --> Router Class Initialized
+INFO - 2019-02-24 18:53:06 --> Output Class Initialized
+INFO - 2019-02-24 18:53:07 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:07 --> Input Class Initialized
+INFO - 2019-02-24 18:53:07 --> Language Class Initialized
+INFO - 2019-02-24 18:53:07 --> Language Class Initialized
+INFO - 2019-02-24 18:53:07 --> Config Class Initialized
+INFO - 2019-02-24 18:53:07 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:07 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:07 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:07 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:07 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:07 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:07 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:07 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:07 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:07 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:07 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:07 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:07 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:07 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:07 --> Total execution time: 1.7128
+INFO - 2019-02-24 18:53:09 --> Config Class Initialized
+INFO - 2019-02-24 18:53:09 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:09 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:09 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:09 --> URI Class Initialized
+INFO - 2019-02-24 18:53:09 --> Router Class Initialized
+INFO - 2019-02-24 18:53:09 --> Output Class Initialized
+INFO - 2019-02-24 18:53:09 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:09 --> Input Class Initialized
+INFO - 2019-02-24 18:53:09 --> Language Class Initialized
+INFO - 2019-02-24 18:53:09 --> Language Class Initialized
+INFO - 2019-02-24 18:53:09 --> Config Class Initialized
+INFO - 2019-02-24 18:53:09 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:09 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:09 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:09 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:09 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:10 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:10 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:10 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:10 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:10 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:10 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:10 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:10 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:10 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:10 --> Total execution time: 1.3062
+INFO - 2019-02-24 18:53:10 --> Config Class Initialized
+INFO - 2019-02-24 18:53:10 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:10 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:10 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:10 --> URI Class Initialized
+INFO - 2019-02-24 18:53:10 --> Router Class Initialized
+INFO - 2019-02-24 18:53:10 --> Output Class Initialized
+INFO - 2019-02-24 18:53:10 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:11 --> Input Class Initialized
+INFO - 2019-02-24 18:53:11 --> Language Class Initialized
+INFO - 2019-02-24 18:53:11 --> Language Class Initialized
+INFO - 2019-02-24 18:53:11 --> Config Class Initialized
+INFO - 2019-02-24 18:53:11 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:11 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:11 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:11 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:11 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:11 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:11 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:11 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:11 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:11 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:11 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:11 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:11 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:11 --> Total execution time: 1.2214
+INFO - 2019-02-24 18:53:11 --> Config Class Initialized
+INFO - 2019-02-24 18:53:11 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:12 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:12 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:12 --> URI Class Initialized
+INFO - 2019-02-24 18:53:12 --> Router Class Initialized
+INFO - 2019-02-24 18:53:12 --> Output Class Initialized
+INFO - 2019-02-24 18:53:12 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:12 --> Input Class Initialized
+INFO - 2019-02-24 18:53:12 --> Language Class Initialized
+INFO - 2019-02-24 18:53:12 --> Language Class Initialized
+INFO - 2019-02-24 18:53:12 --> Config Class Initialized
+INFO - 2019-02-24 18:53:12 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:12 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:12 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:12 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:12 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:12 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:12 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:12 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:12 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:13 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:13 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:13 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:13 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:13 --> Total execution time: 1.2554
+INFO - 2019-02-24 18:53:13 --> Config Class Initialized
+INFO - 2019-02-24 18:53:13 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:13 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:13 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:13 --> URI Class Initialized
+INFO - 2019-02-24 18:53:13 --> Router Class Initialized
+INFO - 2019-02-24 18:53:13 --> Output Class Initialized
+INFO - 2019-02-24 18:53:13 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:13 --> Input Class Initialized
+INFO - 2019-02-24 18:53:13 --> Language Class Initialized
+INFO - 2019-02-24 18:53:13 --> Language Class Initialized
+INFO - 2019-02-24 18:53:13 --> Config Class Initialized
+INFO - 2019-02-24 18:53:13 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:13 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:14 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:14 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:14 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:14 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:14 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:14 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:14 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:14 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:14 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:14 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:14 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:14 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:14 --> Total execution time: 1.2590
+INFO - 2019-02-24 18:53:14 --> Config Class Initialized
+INFO - 2019-02-24 18:53:14 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:14 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:14 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:14 --> URI Class Initialized
+INFO - 2019-02-24 18:53:14 --> Router Class Initialized
+INFO - 2019-02-24 18:53:14 --> Output Class Initialized
+INFO - 2019-02-24 18:53:15 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:15 --> Input Class Initialized
+INFO - 2019-02-24 18:53:15 --> Language Class Initialized
+INFO - 2019-02-24 18:53:15 --> Language Class Initialized
+INFO - 2019-02-24 18:53:15 --> Config Class Initialized
+INFO - 2019-02-24 18:53:15 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:15 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:15 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:15 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:15 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:15 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:15 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:15 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:15 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:15 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:15 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:15 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:15 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:16 --> Total execution time: 1.2248
+INFO - 2019-02-24 18:53:16 --> Config Class Initialized
+INFO - 2019-02-24 18:53:16 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:16 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:16 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:16 --> URI Class Initialized
+INFO - 2019-02-24 18:53:16 --> Router Class Initialized
+INFO - 2019-02-24 18:53:16 --> Output Class Initialized
+INFO - 2019-02-24 18:53:16 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:16 --> Input Class Initialized
+INFO - 2019-02-24 18:53:16 --> Language Class Initialized
+INFO - 2019-02-24 18:53:16 --> Language Class Initialized
+INFO - 2019-02-24 18:53:16 --> Config Class Initialized
+INFO - 2019-02-24 18:53:16 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:16 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:16 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:16 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:16 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:16 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:16 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:17 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:17 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:17 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:17 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:17 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:17 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:17 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:17 --> Total execution time: 1.2402
+INFO - 2019-02-24 18:53:17 --> Config Class Initialized
+INFO - 2019-02-24 18:53:17 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:17 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:17 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:17 --> URI Class Initialized
+INFO - 2019-02-24 18:53:17 --> Router Class Initialized
+INFO - 2019-02-24 18:53:17 --> Output Class Initialized
+INFO - 2019-02-24 18:53:17 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:17 --> Input Class Initialized
+INFO - 2019-02-24 18:53:17 --> Language Class Initialized
+INFO - 2019-02-24 18:53:17 --> Language Class Initialized
+INFO - 2019-02-24 18:53:18 --> Config Class Initialized
+INFO - 2019-02-24 18:53:18 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:18 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:18 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:18 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:18 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:18 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:18 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:18 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:18 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:18 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:18 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:18 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:18 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:18 --> Total execution time: 1.2978
+INFO - 2019-02-24 18:53:18 --> Config Class Initialized
+INFO - 2019-02-24 18:53:18 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:18 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:19 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:19 --> URI Class Initialized
+INFO - 2019-02-24 18:53:19 --> Router Class Initialized
+INFO - 2019-02-24 18:53:19 --> Output Class Initialized
+INFO - 2019-02-24 18:53:19 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:19 --> Input Class Initialized
+INFO - 2019-02-24 18:53:19 --> Language Class Initialized
+INFO - 2019-02-24 18:53:19 --> Language Class Initialized
+INFO - 2019-02-24 18:53:19 --> Config Class Initialized
+INFO - 2019-02-24 18:53:19 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:19 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:19 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:19 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:19 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:19 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:19 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:19 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:19 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:20 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:20 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:20 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:20 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:20 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:20 --> Total execution time: 1.3971
+INFO - 2019-02-24 18:53:20 --> Config Class Initialized
+INFO - 2019-02-24 18:53:20 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:20 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:20 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:20 --> URI Class Initialized
+INFO - 2019-02-24 18:53:20 --> Router Class Initialized
+INFO - 2019-02-24 18:53:20 --> Output Class Initialized
+INFO - 2019-02-24 18:53:20 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:20 --> Input Class Initialized
+INFO - 2019-02-24 18:53:20 --> Language Class Initialized
+INFO - 2019-02-24 18:53:20 --> Language Class Initialized
+INFO - 2019-02-24 18:53:20 --> Config Class Initialized
+INFO - 2019-02-24 18:53:20 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:21 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:21 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:21 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:21 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:21 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:21 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:21 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:21 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:21 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:21 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:21 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:21 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:21 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:21 --> Total execution time: 1.3511
+INFO - 2019-02-24 18:53:21 --> Config Class Initialized
+INFO - 2019-02-24 18:53:21 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:21 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:21 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:22 --> URI Class Initialized
+INFO - 2019-02-24 18:53:22 --> Router Class Initialized
+INFO - 2019-02-24 18:53:22 --> Output Class Initialized
+INFO - 2019-02-24 18:53:22 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:22 --> Input Class Initialized
+INFO - 2019-02-24 18:53:22 --> Language Class Initialized
+INFO - 2019-02-24 18:53:22 --> Language Class Initialized
+INFO - 2019-02-24 18:53:22 --> Config Class Initialized
+INFO - 2019-02-24 18:53:22 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:22 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:22 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:22 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:22 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:22 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:22 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:22 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:22 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:22 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:22 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:23 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:23 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:23 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:23 --> Total execution time: 1.3922
+INFO - 2019-02-24 18:53:23 --> Config Class Initialized
+INFO - 2019-02-24 18:53:23 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:23 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:23 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:23 --> URI Class Initialized
+INFO - 2019-02-24 18:53:23 --> Router Class Initialized
+INFO - 2019-02-24 18:53:23 --> Output Class Initialized
+INFO - 2019-02-24 18:53:23 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:23 --> Input Class Initialized
+INFO - 2019-02-24 18:53:23 --> Language Class Initialized
+INFO - 2019-02-24 18:53:23 --> Language Class Initialized
+INFO - 2019-02-24 18:53:23 --> Config Class Initialized
+INFO - 2019-02-24 18:53:23 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:24 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:24 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:24 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:24 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:24 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:24 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:24 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:24 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:24 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:24 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:24 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:24 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:24 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:24 --> Total execution time: 1.3848
+INFO - 2019-02-24 18:53:24 --> Config Class Initialized
+INFO - 2019-02-24 18:53:24 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:24 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:24 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:25 --> URI Class Initialized
+INFO - 2019-02-24 18:53:25 --> Router Class Initialized
+INFO - 2019-02-24 18:53:25 --> Output Class Initialized
+INFO - 2019-02-24 18:53:25 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:25 --> Input Class Initialized
+INFO - 2019-02-24 18:53:25 --> Language Class Initialized
+INFO - 2019-02-24 18:53:25 --> Language Class Initialized
+INFO - 2019-02-24 18:53:25 --> Config Class Initialized
+INFO - 2019-02-24 18:53:25 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:25 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:25 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:25 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:25 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:25 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:25 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:25 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:25 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:25 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:26 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:26 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:26 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:26 --> Total execution time: 1.3575
+INFO - 2019-02-24 18:53:26 --> Config Class Initialized
+INFO - 2019-02-24 18:53:26 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:26 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:26 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:26 --> URI Class Initialized
+INFO - 2019-02-24 18:53:26 --> Router Class Initialized
+INFO - 2019-02-24 18:53:26 --> Output Class Initialized
+INFO - 2019-02-24 18:53:26 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:26 --> Input Class Initialized
+INFO - 2019-02-24 18:53:26 --> Language Class Initialized
+INFO - 2019-02-24 18:53:26 --> Language Class Initialized
+INFO - 2019-02-24 18:53:26 --> Config Class Initialized
+INFO - 2019-02-24 18:53:26 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:27 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:27 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:27 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:27 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:27 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:27 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:27 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:27 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:27 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:27 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:27 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:27 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:27 --> Total execution time: 1.4135
+INFO - 2019-02-24 18:53:27 --> Config Class Initialized
+INFO - 2019-02-24 18:53:27 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:27 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:27 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:28 --> URI Class Initialized
+INFO - 2019-02-24 18:53:28 --> Router Class Initialized
+INFO - 2019-02-24 18:53:28 --> Output Class Initialized
+INFO - 2019-02-24 18:53:28 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:28 --> Input Class Initialized
+INFO - 2019-02-24 18:53:28 --> Language Class Initialized
+INFO - 2019-02-24 18:53:28 --> Language Class Initialized
+INFO - 2019-02-24 18:53:28 --> Config Class Initialized
+INFO - 2019-02-24 18:53:28 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:28 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:28 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:28 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:28 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:28 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:28 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:28 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:28 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:28 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:28 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:29 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:29 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:29 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:29 --> Total execution time: 1.3227
+INFO - 2019-02-24 18:53:29 --> Config Class Initialized
+INFO - 2019-02-24 18:53:29 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:29 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:29 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:29 --> URI Class Initialized
+INFO - 2019-02-24 18:53:29 --> Router Class Initialized
+INFO - 2019-02-24 18:53:29 --> Output Class Initialized
+INFO - 2019-02-24 18:53:29 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:29 --> Input Class Initialized
+INFO - 2019-02-24 18:53:29 --> Language Class Initialized
+INFO - 2019-02-24 18:53:29 --> Language Class Initialized
+INFO - 2019-02-24 18:53:29 --> Config Class Initialized
+INFO - 2019-02-24 18:53:29 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:29 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:30 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:30 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:30 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:30 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:30 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:30 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:30 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:30 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:30 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:30 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:30 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:30 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:30 --> Total execution time: 1.3674
+INFO - 2019-02-24 18:53:30 --> Config Class Initialized
+INFO - 2019-02-24 18:53:30 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:30 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:30 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:30 --> URI Class Initialized
+INFO - 2019-02-24 18:53:30 --> Router Class Initialized
+INFO - 2019-02-24 18:53:31 --> Output Class Initialized
+INFO - 2019-02-24 18:53:31 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:31 --> Input Class Initialized
+INFO - 2019-02-24 18:53:31 --> Language Class Initialized
+INFO - 2019-02-24 18:53:31 --> Language Class Initialized
+INFO - 2019-02-24 18:53:31 --> Config Class Initialized
+INFO - 2019-02-24 18:53:31 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:31 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:31 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:31 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:31 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:31 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:31 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:31 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:31 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:31 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:31 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:31 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:32 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:32 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:32 --> Total execution time: 1.3595
+INFO - 2019-02-24 18:53:32 --> Config Class Initialized
+INFO - 2019-02-24 18:53:32 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:32 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:32 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:32 --> URI Class Initialized
+INFO - 2019-02-24 18:53:32 --> Router Class Initialized
+INFO - 2019-02-24 18:53:32 --> Output Class Initialized
+INFO - 2019-02-24 18:53:32 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:32 --> Input Class Initialized
+INFO - 2019-02-24 18:53:32 --> Language Class Initialized
+INFO - 2019-02-24 18:53:32 --> Language Class Initialized
+INFO - 2019-02-24 18:53:32 --> Config Class Initialized
+INFO - 2019-02-24 18:53:32 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:32 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:32 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:33 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:33 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:33 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:33 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:33 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:33 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:33 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:33 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:33 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:33 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:33 --> Total execution time: 1.3170
+INFO - 2019-02-24 18:53:33 --> Config Class Initialized
+INFO - 2019-02-24 18:53:33 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:33 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:33 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:33 --> URI Class Initialized
+INFO - 2019-02-24 18:53:33 --> Router Class Initialized
+INFO - 2019-02-24 18:53:33 --> Output Class Initialized
+INFO - 2019-02-24 18:53:34 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:34 --> Input Class Initialized
+INFO - 2019-02-24 18:53:34 --> Language Class Initialized
+INFO - 2019-02-24 18:53:34 --> Language Class Initialized
+INFO - 2019-02-24 18:53:34 --> Config Class Initialized
+INFO - 2019-02-24 18:53:34 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:34 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:34 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:34 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:34 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:34 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:34 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:34 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:34 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:34 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:34 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:34 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:34 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:35 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:35 --> Total execution time: 1.3918
+INFO - 2019-02-24 18:53:35 --> Config Class Initialized
+INFO - 2019-02-24 18:53:35 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:35 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:35 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:35 --> URI Class Initialized
+INFO - 2019-02-24 18:53:35 --> Router Class Initialized
+INFO - 2019-02-24 18:53:35 --> Output Class Initialized
+INFO - 2019-02-24 18:53:35 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:35 --> Input Class Initialized
+INFO - 2019-02-24 18:53:35 --> Language Class Initialized
+INFO - 2019-02-24 18:53:35 --> Language Class Initialized
+INFO - 2019-02-24 18:53:35 --> Config Class Initialized
+INFO - 2019-02-24 18:53:35 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:35 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:35 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:35 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:36 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:36 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:36 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:36 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:36 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:36 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:36 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:36 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:36 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:36 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:36 --> Total execution time: 1.3181
+INFO - 2019-02-24 18:53:36 --> Config Class Initialized
+INFO - 2019-02-24 18:53:36 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:36 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:36 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:36 --> URI Class Initialized
+INFO - 2019-02-24 18:53:36 --> Router Class Initialized
+INFO - 2019-02-24 18:53:36 --> Output Class Initialized
+INFO - 2019-02-24 18:53:36 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:37 --> Input Class Initialized
+INFO - 2019-02-24 18:53:37 --> Language Class Initialized
+INFO - 2019-02-24 18:53:37 --> Language Class Initialized
+INFO - 2019-02-24 18:53:37 --> Config Class Initialized
+INFO - 2019-02-24 18:53:37 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:37 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:37 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:37 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:37 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:37 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:37 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:37 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:37 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:37 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:37 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:37 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:37 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:37 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:38 --> Total execution time: 1.3510
+INFO - 2019-02-24 18:53:43 --> Config Class Initialized
+INFO - 2019-02-24 18:53:43 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:43 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:43 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:43 --> URI Class Initialized
+INFO - 2019-02-24 18:53:43 --> Router Class Initialized
+INFO - 2019-02-24 18:53:43 --> Output Class Initialized
+INFO - 2019-02-24 18:53:43 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:43 --> Input Class Initialized
+INFO - 2019-02-24 18:53:43 --> Language Class Initialized
+INFO - 2019-02-24 18:53:43 --> Language Class Initialized
+INFO - 2019-02-24 18:53:43 --> Config Class Initialized
+INFO - 2019-02-24 18:53:43 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:43 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:43 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:43 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:44 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:44 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:44 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:44 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:44 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:44 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:44 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:44 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:44 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:44 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:44 --> Total execution time: 1.4383
+INFO - 2019-02-24 18:53:44 --> Config Class Initialized
+INFO - 2019-02-24 18:53:44 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:44 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:44 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:44 --> URI Class Initialized
+INFO - 2019-02-24 18:53:44 --> Router Class Initialized
+INFO - 2019-02-24 18:53:45 --> Output Class Initialized
+INFO - 2019-02-24 18:53:45 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:45 --> Input Class Initialized
+INFO - 2019-02-24 18:53:45 --> Language Class Initialized
+INFO - 2019-02-24 18:53:45 --> Language Class Initialized
+INFO - 2019-02-24 18:53:45 --> Config Class Initialized
+INFO - 2019-02-24 18:53:45 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:45 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:45 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:45 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:45 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:45 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:45 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:45 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:45 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:45 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:45 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:45 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:46 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:46 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:46 --> Total execution time: 1.4198
+INFO - 2019-02-24 18:53:46 --> Config Class Initialized
+INFO - 2019-02-24 18:53:46 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:46 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:46 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:46 --> URI Class Initialized
+INFO - 2019-02-24 18:53:46 --> Router Class Initialized
+INFO - 2019-02-24 18:53:46 --> Output Class Initialized
+INFO - 2019-02-24 18:53:46 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:46 --> Input Class Initialized
+INFO - 2019-02-24 18:53:46 --> Language Class Initialized
+INFO - 2019-02-24 18:53:46 --> Language Class Initialized
+INFO - 2019-02-24 18:53:46 --> Config Class Initialized
+INFO - 2019-02-24 18:53:46 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:47 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:47 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:47 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:47 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:47 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:47 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:47 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:47 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:47 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:47 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:47 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:47 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:47 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:47 --> Total execution time: 1.4344
+INFO - 2019-02-24 18:53:47 --> Config Class Initialized
+INFO - 2019-02-24 18:53:47 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:47 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:47 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:48 --> URI Class Initialized
+INFO - 2019-02-24 18:53:48 --> Router Class Initialized
+INFO - 2019-02-24 18:53:48 --> Output Class Initialized
+INFO - 2019-02-24 18:53:48 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:48 --> Input Class Initialized
+INFO - 2019-02-24 18:53:48 --> Language Class Initialized
+INFO - 2019-02-24 18:53:48 --> Language Class Initialized
+INFO - 2019-02-24 18:53:48 --> Config Class Initialized
+INFO - 2019-02-24 18:53:48 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:48 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:48 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:48 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:48 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:48 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:48 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:48 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:48 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:48 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:49 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:49 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:49 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:49 --> Total execution time: 1.3506
+INFO - 2019-02-24 18:53:49 --> Config Class Initialized
+INFO - 2019-02-24 18:53:49 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:49 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:49 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:49 --> URI Class Initialized
+INFO - 2019-02-24 18:53:49 --> Router Class Initialized
+INFO - 2019-02-24 18:53:49 --> Output Class Initialized
+INFO - 2019-02-24 18:53:49 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:49 --> Input Class Initialized
+INFO - 2019-02-24 18:53:49 --> Language Class Initialized
+INFO - 2019-02-24 18:53:49 --> Language Class Initialized
+INFO - 2019-02-24 18:53:49 --> Config Class Initialized
+INFO - 2019-02-24 18:53:49 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:49 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:50 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:50 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:50 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:50 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:50 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:50 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:50 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:50 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:50 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:50 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:50 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:50 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:50 --> Total execution time: 1.3715
+INFO - 2019-02-24 18:53:50 --> Config Class Initialized
+INFO - 2019-02-24 18:53:50 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:50 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:50 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:50 --> URI Class Initialized
+INFO - 2019-02-24 18:53:51 --> Router Class Initialized
+INFO - 2019-02-24 18:53:51 --> Output Class Initialized
+INFO - 2019-02-24 18:53:51 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:51 --> Input Class Initialized
+INFO - 2019-02-24 18:53:51 --> Language Class Initialized
+INFO - 2019-02-24 18:53:51 --> Language Class Initialized
+INFO - 2019-02-24 18:53:51 --> Config Class Initialized
+INFO - 2019-02-24 18:53:51 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:51 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:51 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:51 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:51 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:51 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:51 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:51 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:51 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:51 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:51 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:52 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:52 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:52 --> Total execution time: 1.3736
+INFO - 2019-02-24 18:53:52 --> Config Class Initialized
+INFO - 2019-02-24 18:53:52 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:52 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:52 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:52 --> URI Class Initialized
+INFO - 2019-02-24 18:53:52 --> Router Class Initialized
+INFO - 2019-02-24 18:53:52 --> Output Class Initialized
+INFO - 2019-02-24 18:53:52 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:52 --> Input Class Initialized
+INFO - 2019-02-24 18:53:52 --> Language Class Initialized
+INFO - 2019-02-24 18:53:52 --> Language Class Initialized
+INFO - 2019-02-24 18:53:52 --> Config Class Initialized
+INFO - 2019-02-24 18:53:52 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:53 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:53 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:53 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:53 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:53 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:53 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:53 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:53 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:53 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:53 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:53 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:53 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:53 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:53 --> Total execution time: 1.4365
+INFO - 2019-02-24 18:53:53 --> Config Class Initialized
+INFO - 2019-02-24 18:53:53 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:53 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:54 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:54 --> URI Class Initialized
+INFO - 2019-02-24 18:53:54 --> Router Class Initialized
+INFO - 2019-02-24 18:53:54 --> Output Class Initialized
+INFO - 2019-02-24 18:53:54 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:54 --> Input Class Initialized
+INFO - 2019-02-24 18:53:54 --> Language Class Initialized
+INFO - 2019-02-24 18:53:54 --> Language Class Initialized
+INFO - 2019-02-24 18:53:54 --> Config Class Initialized
+INFO - 2019-02-24 18:53:54 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:54 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:55 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:55 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:55 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:55 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:55 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:55 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:55 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:55 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:55 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:56 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:56 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:56 --> Total execution time: 2.3348
+INFO - 2019-02-24 18:53:56 --> Config Class Initialized
+INFO - 2019-02-24 18:53:56 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:56 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:56 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:56 --> URI Class Initialized
+INFO - 2019-02-24 18:53:56 --> Router Class Initialized
+INFO - 2019-02-24 18:53:56 --> Output Class Initialized
+INFO - 2019-02-24 18:53:56 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:56 --> Input Class Initialized
+INFO - 2019-02-24 18:53:56 --> Language Class Initialized
+INFO - 2019-02-24 18:53:57 --> Language Class Initialized
+INFO - 2019-02-24 18:53:57 --> Config Class Initialized
+INFO - 2019-02-24 18:53:57 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:57 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:57 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:57 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:57 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:57 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:57 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:57 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:57 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:57 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:53:57 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:53:57 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:53:58 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:53:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:53:58 --> Final output sent to browser
+DEBUG - 2019-02-24 18:53:58 --> Total execution time: 1.9752
+INFO - 2019-02-24 18:53:58 --> Config Class Initialized
+INFO - 2019-02-24 18:53:58 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:53:58 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:53:58 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:53:58 --> URI Class Initialized
+INFO - 2019-02-24 18:53:58 --> Router Class Initialized
+INFO - 2019-02-24 18:53:59 --> Output Class Initialized
+INFO - 2019-02-24 18:53:59 --> Security Class Initialized
+DEBUG - 2019-02-24 18:53:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:53:59 --> Input Class Initialized
+INFO - 2019-02-24 18:53:59 --> Language Class Initialized
+INFO - 2019-02-24 18:53:59 --> Language Class Initialized
+INFO - 2019-02-24 18:53:59 --> Config Class Initialized
+INFO - 2019-02-24 18:53:59 --> Loader Class Initialized
+INFO - 2019-02-24 18:53:59 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:53:59 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:53:59 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:53:59 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:53:59 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:53:59 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:53:59 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:53:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:53:59 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:00 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:00 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:00 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:00 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:00 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:00 --> Total execution time: 1.8463
+INFO - 2019-02-24 18:54:00 --> Config Class Initialized
+INFO - 2019-02-24 18:54:00 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:00 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:00 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:00 --> URI Class Initialized
+INFO - 2019-02-24 18:54:00 --> Router Class Initialized
+INFO - 2019-02-24 18:54:00 --> Output Class Initialized
+INFO - 2019-02-24 18:54:00 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:00 --> Input Class Initialized
+INFO - 2019-02-24 18:54:01 --> Language Class Initialized
+INFO - 2019-02-24 18:54:01 --> Language Class Initialized
+INFO - 2019-02-24 18:54:01 --> Config Class Initialized
+INFO - 2019-02-24 18:54:01 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:01 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:01 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:01 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:01 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:01 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:01 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:01 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:01 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:01 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:01 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:01 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:01 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:02 --> Total execution time: 1.5133
+INFO - 2019-02-24 18:54:02 --> Config Class Initialized
+INFO - 2019-02-24 18:54:02 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:02 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:02 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:02 --> URI Class Initialized
+INFO - 2019-02-24 18:54:02 --> Router Class Initialized
+INFO - 2019-02-24 18:54:02 --> Output Class Initialized
+INFO - 2019-02-24 18:54:02 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:02 --> Input Class Initialized
+INFO - 2019-02-24 18:54:02 --> Language Class Initialized
+INFO - 2019-02-24 18:54:02 --> Language Class Initialized
+INFO - 2019-02-24 18:54:02 --> Config Class Initialized
+INFO - 2019-02-24 18:54:02 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:02 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:02 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:02 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:03 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:03 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:03 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:03 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:03 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:03 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:03 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:03 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:03 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:03 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:03 --> Total execution time: 1.4991
+INFO - 2019-02-24 18:54:03 --> Config Class Initialized
+INFO - 2019-02-24 18:54:03 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:03 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:03 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:03 --> URI Class Initialized
+INFO - 2019-02-24 18:54:03 --> Router Class Initialized
+INFO - 2019-02-24 18:54:04 --> Output Class Initialized
+INFO - 2019-02-24 18:54:04 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:04 --> Input Class Initialized
+INFO - 2019-02-24 18:54:04 --> Language Class Initialized
+INFO - 2019-02-24 18:54:04 --> Language Class Initialized
+INFO - 2019-02-24 18:54:04 --> Config Class Initialized
+INFO - 2019-02-24 18:54:04 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:04 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:04 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:04 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:04 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:04 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:04 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:04 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:04 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:04 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:04 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:04 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:04 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:05 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:05 --> Total execution time: 1.3832
+INFO - 2019-02-24 18:54:05 --> Config Class Initialized
+INFO - 2019-02-24 18:54:05 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:05 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:05 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:05 --> URI Class Initialized
+INFO - 2019-02-24 18:54:05 --> Router Class Initialized
+INFO - 2019-02-24 18:54:05 --> Output Class Initialized
+INFO - 2019-02-24 18:54:05 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:05 --> Input Class Initialized
+INFO - 2019-02-24 18:54:05 --> Language Class Initialized
+INFO - 2019-02-24 18:54:05 --> Language Class Initialized
+INFO - 2019-02-24 18:54:05 --> Config Class Initialized
+INFO - 2019-02-24 18:54:05 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:05 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:05 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:05 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:06 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:06 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:06 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:06 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:06 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:06 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:06 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:06 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:06 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:06 --> Total execution time: 1.3571
+INFO - 2019-02-24 18:54:06 --> Config Class Initialized
+INFO - 2019-02-24 18:54:06 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:06 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:06 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:06 --> URI Class Initialized
+INFO - 2019-02-24 18:54:06 --> Router Class Initialized
+INFO - 2019-02-24 18:54:07 --> Output Class Initialized
+INFO - 2019-02-24 18:54:07 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:07 --> Input Class Initialized
+INFO - 2019-02-24 18:54:07 --> Language Class Initialized
+INFO - 2019-02-24 18:54:07 --> Language Class Initialized
+INFO - 2019-02-24 18:54:07 --> Config Class Initialized
+INFO - 2019-02-24 18:54:07 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:07 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:07 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:07 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:07 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:07 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:07 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:07 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:07 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:07 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:07 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:07 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:07 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:08 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:08 --> Total execution time: 1.4069
+INFO - 2019-02-24 18:54:08 --> Config Class Initialized
+INFO - 2019-02-24 18:54:08 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:08 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:08 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:08 --> URI Class Initialized
+INFO - 2019-02-24 18:54:08 --> Router Class Initialized
+INFO - 2019-02-24 18:54:08 --> Output Class Initialized
+INFO - 2019-02-24 18:54:08 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:08 --> Input Class Initialized
+INFO - 2019-02-24 18:54:08 --> Language Class Initialized
+INFO - 2019-02-24 18:54:08 --> Language Class Initialized
+INFO - 2019-02-24 18:54:08 --> Config Class Initialized
+INFO - 2019-02-24 18:54:08 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:08 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:08 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:08 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:09 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:09 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:09 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:09 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:09 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:09 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:09 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:09 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:09 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:09 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:09 --> Total execution time: 1.3853
+INFO - 2019-02-24 18:54:09 --> Config Class Initialized
+INFO - 2019-02-24 18:54:09 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:09 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:09 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:09 --> URI Class Initialized
+INFO - 2019-02-24 18:54:09 --> Router Class Initialized
+INFO - 2019-02-24 18:54:10 --> Output Class Initialized
+INFO - 2019-02-24 18:54:10 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:10 --> Input Class Initialized
+INFO - 2019-02-24 18:54:10 --> Language Class Initialized
+INFO - 2019-02-24 18:54:10 --> Language Class Initialized
+INFO - 2019-02-24 18:54:10 --> Config Class Initialized
+INFO - 2019-02-24 18:54:10 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:10 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:10 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:10 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:10 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:10 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:10 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:10 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:10 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:10 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:10 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:11 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:11 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:11 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:11 --> Total execution time: 1.5549
+INFO - 2019-02-24 18:54:11 --> Config Class Initialized
+INFO - 2019-02-24 18:54:11 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:11 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:11 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:11 --> URI Class Initialized
+INFO - 2019-02-24 18:54:11 --> Router Class Initialized
+INFO - 2019-02-24 18:54:11 --> Output Class Initialized
+INFO - 2019-02-24 18:54:11 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:11 --> Input Class Initialized
+INFO - 2019-02-24 18:54:11 --> Language Class Initialized
+INFO - 2019-02-24 18:54:11 --> Language Class Initialized
+INFO - 2019-02-24 18:54:11 --> Config Class Initialized
+INFO - 2019-02-24 18:54:12 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:12 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:12 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:12 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:12 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:12 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:12 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:12 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:12 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:12 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:12 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:12 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:12 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:12 --> Total execution time: 1.4026
+INFO - 2019-02-24 18:54:12 --> Config Class Initialized
+INFO - 2019-02-24 18:54:12 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:12 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:13 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:13 --> URI Class Initialized
+INFO - 2019-02-24 18:54:13 --> Router Class Initialized
+INFO - 2019-02-24 18:54:13 --> Output Class Initialized
+INFO - 2019-02-24 18:54:13 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:13 --> Input Class Initialized
+INFO - 2019-02-24 18:54:13 --> Language Class Initialized
+INFO - 2019-02-24 18:54:13 --> Language Class Initialized
+INFO - 2019-02-24 18:54:13 --> Config Class Initialized
+INFO - 2019-02-24 18:54:13 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:13 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:13 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:13 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:13 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:13 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:13 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:13 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:13 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:14 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:14 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:14 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:14 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:14 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:14 --> Total execution time: 1.4078
+INFO - 2019-02-24 18:54:14 --> Config Class Initialized
+INFO - 2019-02-24 18:54:14 --> Hooks Class Initialized
+DEBUG - 2019-02-24 18:54:14 --> UTF-8 Support Enabled
+INFO - 2019-02-24 18:54:14 --> Utf8 Class Initialized
+INFO - 2019-02-24 18:54:14 --> URI Class Initialized
+INFO - 2019-02-24 18:54:14 --> Router Class Initialized
+INFO - 2019-02-24 18:54:14 --> Output Class Initialized
+INFO - 2019-02-24 18:54:14 --> Security Class Initialized
+DEBUG - 2019-02-24 18:54:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 18:54:14 --> Input Class Initialized
+INFO - 2019-02-24 18:54:14 --> Language Class Initialized
+INFO - 2019-02-24 18:54:15 --> Language Class Initialized
+INFO - 2019-02-24 18:54:15 --> Config Class Initialized
+INFO - 2019-02-24 18:54:15 --> Loader Class Initialized
+INFO - 2019-02-24 18:54:15 --> Helper loaded: html_helper
+INFO - 2019-02-24 18:54:15 --> Helper loaded: url_helper
+INFO - 2019-02-24 18:54:15 --> Helper loaded: form_helper
+INFO - 2019-02-24 18:54:15 --> Helper loaded: text_helper
+INFO - 2019-02-24 18:54:15 --> Helper loaded: string_helper
+INFO - 2019-02-24 18:54:15 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 18:54:15 --> Database Driver Class Initialized
+INFO - 2019-02-24 18:54:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 18:54:15 --> Form Validation Class Initialized
+INFO - 2019-02-24 18:54:15 --> Controller Class Initialized
+DEBUG - 2019-02-24 18:54:15 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 18:54:15 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 18:54:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 18:54:16 --> Final output sent to browser
+DEBUG - 2019-02-24 18:54:16 --> Total execution time: 1.5972
+INFO - 2019-02-24 19:08:39 --> Config Class Initialized
+INFO - 2019-02-24 19:08:40 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:40 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:40 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:40 --> URI Class Initialized
+INFO - 2019-02-24 19:08:40 --> Router Class Initialized
+INFO - 2019-02-24 19:08:40 --> Output Class Initialized
+INFO - 2019-02-24 19:08:40 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:40 --> Input Class Initialized
+INFO - 2019-02-24 19:08:40 --> Language Class Initialized
+INFO - 2019-02-24 19:08:40 --> Language Class Initialized
+INFO - 2019-02-24 19:08:40 --> Config Class Initialized
+INFO - 2019-02-24 19:08:40 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:40 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:40 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:40 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:40 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:40 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:40 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:41 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:41 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:41 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:41 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:41 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:41 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:41 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:41 --> Total execution time: 1.8634
+INFO - 2019-02-24 19:08:41 --> Config Class Initialized
+INFO - 2019-02-24 19:08:41 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:41 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:41 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:41 --> URI Class Initialized
+INFO - 2019-02-24 19:08:41 --> Router Class Initialized
+INFO - 2019-02-24 19:08:41 --> Output Class Initialized
+INFO - 2019-02-24 19:08:41 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:42 --> Input Class Initialized
+INFO - 2019-02-24 19:08:42 --> Language Class Initialized
+INFO - 2019-02-24 19:08:42 --> Language Class Initialized
+INFO - 2019-02-24 19:08:42 --> Config Class Initialized
+INFO - 2019-02-24 19:08:42 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:42 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:42 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:42 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:42 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:42 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:42 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:42 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:42 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:42 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:42 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:42 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:42 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:42 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:42 --> Total execution time: 1.2813
+INFO - 2019-02-24 19:08:43 --> Config Class Initialized
+INFO - 2019-02-24 19:08:43 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:43 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:43 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:43 --> URI Class Initialized
+INFO - 2019-02-24 19:08:43 --> Router Class Initialized
+INFO - 2019-02-24 19:08:43 --> Output Class Initialized
+INFO - 2019-02-24 19:08:43 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:43 --> Input Class Initialized
+INFO - 2019-02-24 19:08:43 --> Language Class Initialized
+INFO - 2019-02-24 19:08:43 --> Language Class Initialized
+INFO - 2019-02-24 19:08:43 --> Config Class Initialized
+INFO - 2019-02-24 19:08:43 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:43 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:43 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:43 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:43 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:43 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:43 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:43 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:44 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:44 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:44 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:44 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:44 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:44 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:44 --> Total execution time: 1.3166
+INFO - 2019-02-24 19:08:44 --> Config Class Initialized
+INFO - 2019-02-24 19:08:44 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:44 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:44 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:44 --> URI Class Initialized
+INFO - 2019-02-24 19:08:44 --> Router Class Initialized
+INFO - 2019-02-24 19:08:44 --> Output Class Initialized
+INFO - 2019-02-24 19:08:44 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:44 --> Input Class Initialized
+INFO - 2019-02-24 19:08:44 --> Language Class Initialized
+INFO - 2019-02-24 19:08:44 --> Language Class Initialized
+INFO - 2019-02-24 19:08:45 --> Config Class Initialized
+INFO - 2019-02-24 19:08:45 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:45 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:45 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:45 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:45 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:45 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:45 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:45 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:45 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:45 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:45 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:45 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:45 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:45 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:45 --> Total execution time: 1.3512
+INFO - 2019-02-24 19:08:45 --> Config Class Initialized
+INFO - 2019-02-24 19:08:45 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:45 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:46 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:46 --> URI Class Initialized
+INFO - 2019-02-24 19:08:46 --> Router Class Initialized
+INFO - 2019-02-24 19:08:46 --> Output Class Initialized
+INFO - 2019-02-24 19:08:46 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:46 --> Input Class Initialized
+INFO - 2019-02-24 19:08:46 --> Language Class Initialized
+INFO - 2019-02-24 19:08:46 --> Language Class Initialized
+INFO - 2019-02-24 19:08:46 --> Config Class Initialized
+INFO - 2019-02-24 19:08:46 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:46 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:46 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:46 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:46 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:46 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:46 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:46 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:46 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:46 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:47 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:47 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:47 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:47 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:47 --> Total execution time: 1.3287
+INFO - 2019-02-24 19:08:47 --> Config Class Initialized
+INFO - 2019-02-24 19:08:47 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:47 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:47 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:47 --> URI Class Initialized
+INFO - 2019-02-24 19:08:47 --> Router Class Initialized
+INFO - 2019-02-24 19:08:47 --> Output Class Initialized
+INFO - 2019-02-24 19:08:47 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:47 --> Input Class Initialized
+INFO - 2019-02-24 19:08:47 --> Language Class Initialized
+INFO - 2019-02-24 19:08:47 --> Language Class Initialized
+INFO - 2019-02-24 19:08:47 --> Config Class Initialized
+INFO - 2019-02-24 19:08:48 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:48 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:48 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:48 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:48 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:48 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:48 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:48 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:48 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:48 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:48 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:48 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:48 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:48 --> Total execution time: 1.4138
+INFO - 2019-02-24 19:08:48 --> Config Class Initialized
+INFO - 2019-02-24 19:08:48 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:48 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:48 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:49 --> URI Class Initialized
+INFO - 2019-02-24 19:08:49 --> Router Class Initialized
+INFO - 2019-02-24 19:08:49 --> Output Class Initialized
+INFO - 2019-02-24 19:08:49 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:49 --> Input Class Initialized
+INFO - 2019-02-24 19:08:49 --> Language Class Initialized
+INFO - 2019-02-24 19:08:49 --> Language Class Initialized
+INFO - 2019-02-24 19:08:49 --> Config Class Initialized
+INFO - 2019-02-24 19:08:49 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:49 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:49 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:49 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:49 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:49 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:49 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:49 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:50 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:50 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:50 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:50 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:50 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:50 --> Total execution time: 1.4439
+INFO - 2019-02-24 19:08:50 --> Config Class Initialized
+INFO - 2019-02-24 19:08:50 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:50 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:50 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:50 --> URI Class Initialized
+INFO - 2019-02-24 19:08:50 --> Router Class Initialized
+INFO - 2019-02-24 19:08:50 --> Output Class Initialized
+INFO - 2019-02-24 19:08:50 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:50 --> Input Class Initialized
+INFO - 2019-02-24 19:08:50 --> Language Class Initialized
+INFO - 2019-02-24 19:08:50 --> Language Class Initialized
+INFO - 2019-02-24 19:08:51 --> Config Class Initialized
+INFO - 2019-02-24 19:08:51 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:51 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:51 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:51 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:51 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:51 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:51 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:51 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:51 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:51 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:51 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:51 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:51 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:51 --> Total execution time: 1.3747
+INFO - 2019-02-24 19:08:51 --> Config Class Initialized
+INFO - 2019-02-24 19:08:51 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:08:52 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:08:52 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:08:52 --> URI Class Initialized
+INFO - 2019-02-24 19:08:52 --> Router Class Initialized
+INFO - 2019-02-24 19:08:52 --> Output Class Initialized
+INFO - 2019-02-24 19:08:52 --> Security Class Initialized
+DEBUG - 2019-02-24 19:08:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:08:52 --> Input Class Initialized
+INFO - 2019-02-24 19:08:52 --> Language Class Initialized
+INFO - 2019-02-24 19:08:52 --> Language Class Initialized
+INFO - 2019-02-24 19:08:52 --> Config Class Initialized
+INFO - 2019-02-24 19:08:52 --> Loader Class Initialized
+INFO - 2019-02-24 19:08:52 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:08:53 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:08:53 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:08:53 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:08:53 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:08:53 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:08:53 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:08:53 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:08:53 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:08:53 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:08:53 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:08:53 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:08:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:08:53 --> Final output sent to browser
+DEBUG - 2019-02-24 19:08:53 --> Total execution time: 2.0372
+INFO - 2019-02-24 19:09:39 --> Config Class Initialized
+INFO - 2019-02-24 19:09:39 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:39 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:39 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:39 --> URI Class Initialized
+INFO - 2019-02-24 19:09:39 --> Router Class Initialized
+INFO - 2019-02-24 19:09:39 --> Output Class Initialized
+INFO - 2019-02-24 19:09:40 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:40 --> Input Class Initialized
+INFO - 2019-02-24 19:09:40 --> Language Class Initialized
+INFO - 2019-02-24 19:09:40 --> Language Class Initialized
+INFO - 2019-02-24 19:09:40 --> Config Class Initialized
+INFO - 2019-02-24 19:09:40 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:40 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:40 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:40 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:40 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:40 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:40 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:40 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:40 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:40 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:40 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:40 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:41 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:41 --> Total execution time: 1.4596
+INFO - 2019-02-24 19:09:41 --> Config Class Initialized
+INFO - 2019-02-24 19:09:41 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:41 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:41 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:41 --> URI Class Initialized
+INFO - 2019-02-24 19:09:41 --> Router Class Initialized
+INFO - 2019-02-24 19:09:41 --> Output Class Initialized
+INFO - 2019-02-24 19:09:41 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:41 --> Input Class Initialized
+INFO - 2019-02-24 19:09:41 --> Language Class Initialized
+INFO - 2019-02-24 19:09:41 --> Language Class Initialized
+INFO - 2019-02-24 19:09:41 --> Config Class Initialized
+INFO - 2019-02-24 19:09:41 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:41 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:41 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:42 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:42 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:42 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:42 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:42 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:42 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:42 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:42 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:42 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:42 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:42 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:42 --> Total execution time: 1.3460
+INFO - 2019-02-24 19:09:42 --> Config Class Initialized
+INFO - 2019-02-24 19:09:42 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:42 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:42 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:42 --> URI Class Initialized
+INFO - 2019-02-24 19:09:42 --> Router Class Initialized
+INFO - 2019-02-24 19:09:42 --> Output Class Initialized
+INFO - 2019-02-24 19:09:43 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:43 --> Input Class Initialized
+INFO - 2019-02-24 19:09:43 --> Language Class Initialized
+INFO - 2019-02-24 19:09:43 --> Language Class Initialized
+INFO - 2019-02-24 19:09:43 --> Config Class Initialized
+INFO - 2019-02-24 19:09:43 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:43 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:43 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:43 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:43 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:43 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:43 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:43 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:43 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:43 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:43 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:43 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:43 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:44 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:44 --> Total execution time: 1.3198
+INFO - 2019-02-24 19:09:44 --> Config Class Initialized
+INFO - 2019-02-24 19:09:44 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:44 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:44 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:44 --> URI Class Initialized
+INFO - 2019-02-24 19:09:44 --> Router Class Initialized
+INFO - 2019-02-24 19:09:44 --> Output Class Initialized
+INFO - 2019-02-24 19:09:44 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:44 --> Input Class Initialized
+INFO - 2019-02-24 19:09:44 --> Language Class Initialized
+INFO - 2019-02-24 19:09:44 --> Language Class Initialized
+INFO - 2019-02-24 19:09:44 --> Config Class Initialized
+INFO - 2019-02-24 19:09:44 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:44 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:44 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:44 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:44 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:45 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:45 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:45 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:45 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:45 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:45 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:45 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:45 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:45 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:45 --> Total execution time: 1.3257
+INFO - 2019-02-24 19:09:45 --> Config Class Initialized
+INFO - 2019-02-24 19:09:45 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:45 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:45 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:45 --> URI Class Initialized
+INFO - 2019-02-24 19:09:45 --> Router Class Initialized
+INFO - 2019-02-24 19:09:45 --> Output Class Initialized
+INFO - 2019-02-24 19:09:45 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:46 --> Input Class Initialized
+INFO - 2019-02-24 19:09:46 --> Language Class Initialized
+INFO - 2019-02-24 19:09:46 --> Language Class Initialized
+INFO - 2019-02-24 19:09:46 --> Config Class Initialized
+INFO - 2019-02-24 19:09:46 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:46 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:46 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:46 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:46 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:46 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:46 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:46 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:46 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:46 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:46 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:46 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:46 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:46 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:46 --> Total execution time: 1.3161
+INFO - 2019-02-24 19:09:47 --> Config Class Initialized
+INFO - 2019-02-24 19:09:47 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:47 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:47 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:47 --> URI Class Initialized
+INFO - 2019-02-24 19:09:47 --> Router Class Initialized
+INFO - 2019-02-24 19:09:47 --> Output Class Initialized
+INFO - 2019-02-24 19:09:47 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:47 --> Input Class Initialized
+INFO - 2019-02-24 19:09:47 --> Language Class Initialized
+INFO - 2019-02-24 19:09:47 --> Language Class Initialized
+INFO - 2019-02-24 19:09:47 --> Config Class Initialized
+INFO - 2019-02-24 19:09:47 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:47 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:47 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:47 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:47 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:47 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:47 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:48 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:48 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:48 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:48 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:48 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:48 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:48 --> Total execution time: 1.3856
+INFO - 2019-02-24 19:09:48 --> Config Class Initialized
+INFO - 2019-02-24 19:09:48 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:48 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:48 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:48 --> URI Class Initialized
+INFO - 2019-02-24 19:09:48 --> Router Class Initialized
+INFO - 2019-02-24 19:09:48 --> Output Class Initialized
+INFO - 2019-02-24 19:09:48 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:49 --> Input Class Initialized
+INFO - 2019-02-24 19:09:49 --> Language Class Initialized
+INFO - 2019-02-24 19:09:49 --> Language Class Initialized
+INFO - 2019-02-24 19:09:49 --> Config Class Initialized
+INFO - 2019-02-24 19:09:49 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:49 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:49 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:49 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:49 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:49 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:49 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:49 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:49 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:49 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:49 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:49 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:49 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:49 --> Total execution time: 1.3405
+INFO - 2019-02-24 19:09:50 --> Config Class Initialized
+INFO - 2019-02-24 19:09:50 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:50 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:50 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:50 --> URI Class Initialized
+INFO - 2019-02-24 19:09:50 --> Router Class Initialized
+INFO - 2019-02-24 19:09:50 --> Output Class Initialized
+INFO - 2019-02-24 19:09:50 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:50 --> Input Class Initialized
+INFO - 2019-02-24 19:09:50 --> Language Class Initialized
+INFO - 2019-02-24 19:09:50 --> Language Class Initialized
+INFO - 2019-02-24 19:09:50 --> Config Class Initialized
+INFO - 2019-02-24 19:09:50 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:50 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:50 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:50 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:50 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:50 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:50 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:51 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:51 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:51 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:51 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:51 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:51 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:51 --> Total execution time: 1.3449
+INFO - 2019-02-24 19:09:51 --> Config Class Initialized
+INFO - 2019-02-24 19:09:51 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:51 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:51 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:51 --> URI Class Initialized
+INFO - 2019-02-24 19:09:51 --> Router Class Initialized
+INFO - 2019-02-24 19:09:51 --> Output Class Initialized
+INFO - 2019-02-24 19:09:51 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:51 --> Input Class Initialized
+INFO - 2019-02-24 19:09:51 --> Language Class Initialized
+INFO - 2019-02-24 19:09:52 --> Language Class Initialized
+INFO - 2019-02-24 19:09:52 --> Config Class Initialized
+INFO - 2019-02-24 19:09:52 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:52 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:52 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:52 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:52 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:52 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:52 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:52 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:52 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:52 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:52 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:52 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:52 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:52 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:52 --> Total execution time: 1.3972
+INFO - 2019-02-24 19:09:52 --> Config Class Initialized
+INFO - 2019-02-24 19:09:53 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:53 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:53 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:53 --> URI Class Initialized
+INFO - 2019-02-24 19:09:53 --> Router Class Initialized
+INFO - 2019-02-24 19:09:53 --> Output Class Initialized
+INFO - 2019-02-24 19:09:53 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:53 --> Input Class Initialized
+INFO - 2019-02-24 19:09:53 --> Language Class Initialized
+INFO - 2019-02-24 19:09:53 --> Language Class Initialized
+INFO - 2019-02-24 19:09:53 --> Config Class Initialized
+INFO - 2019-02-24 19:09:53 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:53 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:53 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:53 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:53 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:53 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:53 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:53 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:54 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:54 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:54 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:54 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:54 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:54 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:54 --> Total execution time: 1.3555
+INFO - 2019-02-24 19:09:54 --> Config Class Initialized
+INFO - 2019-02-24 19:09:54 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:54 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:54 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:54 --> URI Class Initialized
+INFO - 2019-02-24 19:09:54 --> Router Class Initialized
+INFO - 2019-02-24 19:09:54 --> Output Class Initialized
+INFO - 2019-02-24 19:09:54 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:54 --> Input Class Initialized
+INFO - 2019-02-24 19:09:54 --> Language Class Initialized
+INFO - 2019-02-24 19:09:54 --> Language Class Initialized
+INFO - 2019-02-24 19:09:55 --> Config Class Initialized
+INFO - 2019-02-24 19:09:55 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:55 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:55 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:55 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:55 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:55 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:55 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:55 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:55 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:55 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:55 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:55 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:55 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:55 --> Total execution time: 1.3746
+INFO - 2019-02-24 19:09:55 --> Config Class Initialized
+INFO - 2019-02-24 19:09:55 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:56 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:56 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:56 --> URI Class Initialized
+INFO - 2019-02-24 19:09:56 --> Router Class Initialized
+INFO - 2019-02-24 19:09:56 --> Output Class Initialized
+INFO - 2019-02-24 19:09:56 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:56 --> Input Class Initialized
+INFO - 2019-02-24 19:09:56 --> Language Class Initialized
+INFO - 2019-02-24 19:09:56 --> Language Class Initialized
+INFO - 2019-02-24 19:09:56 --> Config Class Initialized
+INFO - 2019-02-24 19:09:56 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:56 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:56 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:56 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:56 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:56 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:56 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:56 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:57 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:57 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:57 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:57 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:57 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:57 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:57 --> Total execution time: 1.3698
+INFO - 2019-02-24 19:09:57 --> Config Class Initialized
+INFO - 2019-02-24 19:09:57 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:57 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:57 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:57 --> URI Class Initialized
+INFO - 2019-02-24 19:09:57 --> Router Class Initialized
+INFO - 2019-02-24 19:09:57 --> Output Class Initialized
+INFO - 2019-02-24 19:09:57 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:57 --> Input Class Initialized
+INFO - 2019-02-24 19:09:57 --> Language Class Initialized
+INFO - 2019-02-24 19:09:57 --> Language Class Initialized
+INFO - 2019-02-24 19:09:58 --> Config Class Initialized
+INFO - 2019-02-24 19:09:58 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:58 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:58 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:58 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:58 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:58 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:58 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:58 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:09:58 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:09:58 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:09:58 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:09:58 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:09:58 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:09:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:09:58 --> Final output sent to browser
+DEBUG - 2019-02-24 19:09:58 --> Total execution time: 1.3658
+INFO - 2019-02-24 19:09:58 --> Config Class Initialized
+INFO - 2019-02-24 19:09:59 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:09:59 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:09:59 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:09:59 --> URI Class Initialized
+INFO - 2019-02-24 19:09:59 --> Router Class Initialized
+INFO - 2019-02-24 19:09:59 --> Output Class Initialized
+INFO - 2019-02-24 19:09:59 --> Security Class Initialized
+DEBUG - 2019-02-24 19:09:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:09:59 --> Input Class Initialized
+INFO - 2019-02-24 19:09:59 --> Language Class Initialized
+INFO - 2019-02-24 19:09:59 --> Language Class Initialized
+INFO - 2019-02-24 19:09:59 --> Config Class Initialized
+INFO - 2019-02-24 19:09:59 --> Loader Class Initialized
+INFO - 2019-02-24 19:09:59 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:09:59 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:09:59 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:09:59 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:09:59 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:09:59 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:09:59 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:00 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:00 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:00 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:00 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:00 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:00 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:00 --> Total execution time: 1.3966
+INFO - 2019-02-24 19:10:00 --> Config Class Initialized
+INFO - 2019-02-24 19:10:00 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:00 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:00 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:00 --> URI Class Initialized
+INFO - 2019-02-24 19:10:00 --> Router Class Initialized
+INFO - 2019-02-24 19:10:00 --> Output Class Initialized
+INFO - 2019-02-24 19:10:00 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:00 --> Input Class Initialized
+INFO - 2019-02-24 19:10:00 --> Language Class Initialized
+INFO - 2019-02-24 19:10:01 --> Language Class Initialized
+INFO - 2019-02-24 19:10:01 --> Config Class Initialized
+INFO - 2019-02-24 19:10:01 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:01 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:01 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:01 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:01 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:01 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:01 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:01 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:01 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:01 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:01 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:01 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:01 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:01 --> Total execution time: 1.4214
+INFO - 2019-02-24 19:10:01 --> Config Class Initialized
+INFO - 2019-02-24 19:10:02 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:02 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:02 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:02 --> URI Class Initialized
+INFO - 2019-02-24 19:10:02 --> Router Class Initialized
+INFO - 2019-02-24 19:10:02 --> Output Class Initialized
+INFO - 2019-02-24 19:10:02 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:02 --> Input Class Initialized
+INFO - 2019-02-24 19:10:02 --> Language Class Initialized
+INFO - 2019-02-24 19:10:02 --> Language Class Initialized
+INFO - 2019-02-24 19:10:02 --> Config Class Initialized
+INFO - 2019-02-24 19:10:02 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:02 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:02 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:02 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:02 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:02 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:02 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:03 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:03 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:03 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:03 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:03 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:03 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:03 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:03 --> Total execution time: 1.4012
+INFO - 2019-02-24 19:10:03 --> Config Class Initialized
+INFO - 2019-02-24 19:10:03 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:03 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:03 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:03 --> URI Class Initialized
+INFO - 2019-02-24 19:10:03 --> Router Class Initialized
+INFO - 2019-02-24 19:10:03 --> Output Class Initialized
+INFO - 2019-02-24 19:10:03 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:04 --> Input Class Initialized
+INFO - 2019-02-24 19:10:04 --> Language Class Initialized
+INFO - 2019-02-24 19:10:04 --> Language Class Initialized
+INFO - 2019-02-24 19:10:04 --> Config Class Initialized
+INFO - 2019-02-24 19:10:04 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:04 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:04 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:04 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:04 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:04 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:04 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:04 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:04 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:04 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:04 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:04 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:04 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:04 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:04 --> Total execution time: 1.3565
+INFO - 2019-02-24 19:10:05 --> Config Class Initialized
+INFO - 2019-02-24 19:10:05 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:05 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:05 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:05 --> URI Class Initialized
+INFO - 2019-02-24 19:10:05 --> Router Class Initialized
+INFO - 2019-02-24 19:10:05 --> Output Class Initialized
+INFO - 2019-02-24 19:10:05 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:05 --> Input Class Initialized
+INFO - 2019-02-24 19:10:05 --> Language Class Initialized
+INFO - 2019-02-24 19:10:05 --> Language Class Initialized
+INFO - 2019-02-24 19:10:05 --> Config Class Initialized
+INFO - 2019-02-24 19:10:05 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:05 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:05 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:05 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:06 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:06 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:06 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:06 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:06 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:06 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:06 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:06 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:06 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:06 --> Total execution time: 1.4380
+INFO - 2019-02-24 19:10:06 --> Config Class Initialized
+INFO - 2019-02-24 19:10:06 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:06 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:06 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:06 --> URI Class Initialized
+INFO - 2019-02-24 19:10:06 --> Router Class Initialized
+INFO - 2019-02-24 19:10:06 --> Output Class Initialized
+INFO - 2019-02-24 19:10:06 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:07 --> Input Class Initialized
+INFO - 2019-02-24 19:10:07 --> Language Class Initialized
+INFO - 2019-02-24 19:10:07 --> Language Class Initialized
+INFO - 2019-02-24 19:10:07 --> Config Class Initialized
+INFO - 2019-02-24 19:10:07 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:07 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:07 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:07 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:07 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:07 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:07 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:07 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:07 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:07 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:07 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:07 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:07 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:08 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:08 --> Total execution time: 1.3524
+INFO - 2019-02-24 19:10:08 --> Config Class Initialized
+INFO - 2019-02-24 19:10:08 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:08 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:08 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:08 --> URI Class Initialized
+INFO - 2019-02-24 19:10:08 --> Router Class Initialized
+INFO - 2019-02-24 19:10:08 --> Output Class Initialized
+INFO - 2019-02-24 19:10:08 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:08 --> Input Class Initialized
+INFO - 2019-02-24 19:10:08 --> Language Class Initialized
+INFO - 2019-02-24 19:10:08 --> Language Class Initialized
+INFO - 2019-02-24 19:10:08 --> Config Class Initialized
+INFO - 2019-02-24 19:10:08 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:08 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:08 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:08 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:09 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:09 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:09 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:09 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:09 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:09 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:09 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:09 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:09 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:09 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:09 --> Total execution time: 1.3866
+INFO - 2019-02-24 19:10:10 --> Config Class Initialized
+INFO - 2019-02-24 19:10:10 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:10 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:10 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:10 --> URI Class Initialized
+INFO - 2019-02-24 19:10:10 --> Router Class Initialized
+INFO - 2019-02-24 19:10:10 --> Output Class Initialized
+INFO - 2019-02-24 19:10:10 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:10 --> Input Class Initialized
+INFO - 2019-02-24 19:10:10 --> Language Class Initialized
+INFO - 2019-02-24 19:10:10 --> Language Class Initialized
+INFO - 2019-02-24 19:10:10 --> Config Class Initialized
+INFO - 2019-02-24 19:10:10 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:10 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:10 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:11 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:11 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:11 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:11 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:11 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:11 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:11 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:11 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:11 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:11 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:11 --> Total execution time: 1.4743
+INFO - 2019-02-24 19:10:11 --> Config Class Initialized
+INFO - 2019-02-24 19:10:11 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:11 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:11 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:11 --> URI Class Initialized
+INFO - 2019-02-24 19:10:11 --> Router Class Initialized
+INFO - 2019-02-24 19:10:12 --> Output Class Initialized
+INFO - 2019-02-24 19:10:12 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:12 --> Input Class Initialized
+INFO - 2019-02-24 19:10:12 --> Language Class Initialized
+INFO - 2019-02-24 19:10:12 --> Language Class Initialized
+INFO - 2019-02-24 19:10:12 --> Config Class Initialized
+INFO - 2019-02-24 19:10:12 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:12 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:12 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:12 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:12 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:12 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:12 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:12 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:12 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:12 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:12 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:13 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:13 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:13 --> Total execution time: 1.3964
+INFO - 2019-02-24 19:10:13 --> Config Class Initialized
+INFO - 2019-02-24 19:10:13 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:13 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:13 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:13 --> URI Class Initialized
+INFO - 2019-02-24 19:10:13 --> Router Class Initialized
+INFO - 2019-02-24 19:10:13 --> Output Class Initialized
+INFO - 2019-02-24 19:10:13 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:13 --> Input Class Initialized
+INFO - 2019-02-24 19:10:13 --> Language Class Initialized
+INFO - 2019-02-24 19:10:13 --> Language Class Initialized
+INFO - 2019-02-24 19:10:13 --> Config Class Initialized
+INFO - 2019-02-24 19:10:13 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:13 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:13 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:14 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:14 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:14 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:14 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:14 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:14 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:14 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:14 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:14 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:14 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:14 --> Total execution time: 1.3747
+INFO - 2019-02-24 19:10:14 --> Config Class Initialized
+INFO - 2019-02-24 19:10:14 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:14 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:14 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:14 --> URI Class Initialized
+INFO - 2019-02-24 19:10:14 --> Router Class Initialized
+INFO - 2019-02-24 19:10:15 --> Output Class Initialized
+INFO - 2019-02-24 19:10:15 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:15 --> Input Class Initialized
+INFO - 2019-02-24 19:10:15 --> Language Class Initialized
+INFO - 2019-02-24 19:10:15 --> Language Class Initialized
+INFO - 2019-02-24 19:10:15 --> Config Class Initialized
+INFO - 2019-02-24 19:10:15 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:15 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:15 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:15 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:15 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:15 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:15 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:15 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:15 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:15 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:15 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:15 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:16 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:16 --> Total execution time: 1.3990
+INFO - 2019-02-24 19:10:16 --> Config Class Initialized
+INFO - 2019-02-24 19:10:16 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:10:16 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:10:16 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:10:16 --> URI Class Initialized
+INFO - 2019-02-24 19:10:16 --> Router Class Initialized
+INFO - 2019-02-24 19:10:16 --> Output Class Initialized
+INFO - 2019-02-24 19:10:16 --> Security Class Initialized
+DEBUG - 2019-02-24 19:10:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:10:16 --> Input Class Initialized
+INFO - 2019-02-24 19:10:16 --> Language Class Initialized
+INFO - 2019-02-24 19:10:16 --> Language Class Initialized
+INFO - 2019-02-24 19:10:16 --> Config Class Initialized
+INFO - 2019-02-24 19:10:16 --> Loader Class Initialized
+INFO - 2019-02-24 19:10:16 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:10:17 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:10:17 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:10:17 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:10:17 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:10:17 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:10:17 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:10:17 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:10:17 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:10:17 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:10:17 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:10:17 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:10:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:10:17 --> Final output sent to browser
+DEBUG - 2019-02-24 19:10:17 --> Total execution time: 1.6000
+INFO - 2019-02-24 19:12:11 --> Config Class Initialized
+INFO - 2019-02-24 19:12:12 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:12 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:12 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:12 --> URI Class Initialized
+INFO - 2019-02-24 19:12:12 --> Router Class Initialized
+INFO - 2019-02-24 19:12:12 --> Output Class Initialized
+INFO - 2019-02-24 19:12:12 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:12 --> Input Class Initialized
+INFO - 2019-02-24 19:12:12 --> Language Class Initialized
+INFO - 2019-02-24 19:12:13 --> Language Class Initialized
+INFO - 2019-02-24 19:12:13 --> Config Class Initialized
+INFO - 2019-02-24 19:12:13 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:13 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:13 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:13 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:13 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:13 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:13 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:13 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:13 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:13 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:13 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:13 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:13 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:13 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:13 --> Total execution time: 2.0610
+INFO - 2019-02-24 19:12:14 --> Config Class Initialized
+INFO - 2019-02-24 19:12:14 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:14 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:14 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:14 --> URI Class Initialized
+INFO - 2019-02-24 19:12:14 --> Router Class Initialized
+INFO - 2019-02-24 19:12:14 --> Output Class Initialized
+INFO - 2019-02-24 19:12:14 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:14 --> Input Class Initialized
+INFO - 2019-02-24 19:12:14 --> Language Class Initialized
+INFO - 2019-02-24 19:12:14 --> Language Class Initialized
+INFO - 2019-02-24 19:12:14 --> Config Class Initialized
+INFO - 2019-02-24 19:12:14 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:14 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:14 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:14 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:14 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:15 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:15 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:15 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:15 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:15 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:15 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:15 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:15 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:15 --> Total execution time: 1.4577
+INFO - 2019-02-24 19:12:15 --> Config Class Initialized
+INFO - 2019-02-24 19:12:15 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:15 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:15 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:15 --> URI Class Initialized
+INFO - 2019-02-24 19:12:15 --> Router Class Initialized
+INFO - 2019-02-24 19:12:15 --> Output Class Initialized
+INFO - 2019-02-24 19:12:16 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:16 --> Input Class Initialized
+INFO - 2019-02-24 19:12:16 --> Language Class Initialized
+INFO - 2019-02-24 19:12:16 --> Language Class Initialized
+INFO - 2019-02-24 19:12:16 --> Config Class Initialized
+INFO - 2019-02-24 19:12:16 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:16 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:16 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:16 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:16 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:16 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:16 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:16 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:16 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:16 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:16 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:16 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:16 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:17 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:17 --> Total execution time: 1.4223
+INFO - 2019-02-24 19:12:17 --> Config Class Initialized
+INFO - 2019-02-24 19:12:17 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:17 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:17 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:17 --> URI Class Initialized
+INFO - 2019-02-24 19:12:17 --> Router Class Initialized
+INFO - 2019-02-24 19:12:17 --> Output Class Initialized
+INFO - 2019-02-24 19:12:17 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:17 --> Input Class Initialized
+INFO - 2019-02-24 19:12:17 --> Language Class Initialized
+INFO - 2019-02-24 19:12:17 --> Language Class Initialized
+INFO - 2019-02-24 19:12:17 --> Config Class Initialized
+INFO - 2019-02-24 19:12:17 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:17 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:17 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:17 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:18 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:18 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:18 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:18 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:18 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:18 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:18 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:18 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:18 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:18 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:18 --> Total execution time: 1.3906
+INFO - 2019-02-24 19:12:18 --> Config Class Initialized
+INFO - 2019-02-24 19:12:18 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:18 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:18 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:18 --> URI Class Initialized
+INFO - 2019-02-24 19:12:18 --> Router Class Initialized
+INFO - 2019-02-24 19:12:18 --> Output Class Initialized
+INFO - 2019-02-24 19:12:19 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:19 --> Input Class Initialized
+INFO - 2019-02-24 19:12:19 --> Language Class Initialized
+INFO - 2019-02-24 19:12:19 --> Language Class Initialized
+INFO - 2019-02-24 19:12:19 --> Config Class Initialized
+INFO - 2019-02-24 19:12:19 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:19 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:19 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:19 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:19 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:19 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:19 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:19 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:19 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:19 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:19 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:19 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:19 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:20 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:20 --> Total execution time: 1.4436
+INFO - 2019-02-24 19:12:20 --> Config Class Initialized
+INFO - 2019-02-24 19:12:20 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:20 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:20 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:20 --> URI Class Initialized
+INFO - 2019-02-24 19:12:20 --> Router Class Initialized
+INFO - 2019-02-24 19:12:20 --> Output Class Initialized
+INFO - 2019-02-24 19:12:20 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:20 --> Input Class Initialized
+INFO - 2019-02-24 19:12:20 --> Language Class Initialized
+INFO - 2019-02-24 19:12:20 --> Language Class Initialized
+INFO - 2019-02-24 19:12:20 --> Config Class Initialized
+INFO - 2019-02-24 19:12:20 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:20 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:20 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:21 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:21 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:21 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:21 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:21 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:21 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:21 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:21 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:21 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:21 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:21 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:21 --> Total execution time: 1.4116
+INFO - 2019-02-24 19:12:21 --> Config Class Initialized
+INFO - 2019-02-24 19:12:21 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:21 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:21 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:21 --> URI Class Initialized
+INFO - 2019-02-24 19:12:22 --> Router Class Initialized
+INFO - 2019-02-24 19:12:22 --> Output Class Initialized
+INFO - 2019-02-24 19:12:22 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:22 --> Input Class Initialized
+INFO - 2019-02-24 19:12:22 --> Language Class Initialized
+INFO - 2019-02-24 19:12:22 --> Language Class Initialized
+INFO - 2019-02-24 19:12:22 --> Config Class Initialized
+INFO - 2019-02-24 19:12:22 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:22 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:22 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:22 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:22 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:22 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:22 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:22 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:23 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:23 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:23 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:23 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:23 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:23 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:23 --> Total execution time: 1.6531
+INFO - 2019-02-24 19:12:23 --> Config Class Initialized
+INFO - 2019-02-24 19:12:23 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:23 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:23 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:23 --> URI Class Initialized
+INFO - 2019-02-24 19:12:23 --> Router Class Initialized
+INFO - 2019-02-24 19:12:24 --> Output Class Initialized
+INFO - 2019-02-24 19:12:24 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:24 --> Input Class Initialized
+INFO - 2019-02-24 19:12:24 --> Language Class Initialized
+INFO - 2019-02-24 19:12:24 --> Language Class Initialized
+INFO - 2019-02-24 19:12:24 --> Config Class Initialized
+INFO - 2019-02-24 19:12:24 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:24 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:24 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:24 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:24 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:24 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:24 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:24 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:24 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:24 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:24 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:25 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:25 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:25 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:25 --> Total execution time: 1.4702
+INFO - 2019-02-24 19:12:25 --> Config Class Initialized
+INFO - 2019-02-24 19:12:25 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:25 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:25 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:25 --> URI Class Initialized
+INFO - 2019-02-24 19:12:25 --> Router Class Initialized
+INFO - 2019-02-24 19:12:25 --> Output Class Initialized
+INFO - 2019-02-24 19:12:25 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:25 --> Input Class Initialized
+INFO - 2019-02-24 19:12:25 --> Language Class Initialized
+INFO - 2019-02-24 19:12:25 --> Language Class Initialized
+INFO - 2019-02-24 19:12:25 --> Config Class Initialized
+INFO - 2019-02-24 19:12:26 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:26 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:26 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:26 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:26 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:26 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:26 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:26 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:26 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:26 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:26 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:26 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:26 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:26 --> Total execution time: 1.4411
+INFO - 2019-02-24 19:12:26 --> Config Class Initialized
+INFO - 2019-02-24 19:12:26 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:27 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:27 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:27 --> URI Class Initialized
+INFO - 2019-02-24 19:12:27 --> Router Class Initialized
+INFO - 2019-02-24 19:12:27 --> Output Class Initialized
+INFO - 2019-02-24 19:12:27 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:27 --> Input Class Initialized
+INFO - 2019-02-24 19:12:27 --> Language Class Initialized
+INFO - 2019-02-24 19:12:27 --> Language Class Initialized
+INFO - 2019-02-24 19:12:27 --> Config Class Initialized
+INFO - 2019-02-24 19:12:27 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:27 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:27 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:27 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:27 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:27 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:27 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:27 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:28 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:28 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:28 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:28 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:28 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:28 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:28 --> Total execution time: 1.4342
+INFO - 2019-02-24 19:12:28 --> Config Class Initialized
+INFO - 2019-02-24 19:12:28 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:28 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:28 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:28 --> URI Class Initialized
+INFO - 2019-02-24 19:12:28 --> Router Class Initialized
+INFO - 2019-02-24 19:12:28 --> Output Class Initialized
+INFO - 2019-02-24 19:12:28 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:28 --> Input Class Initialized
+INFO - 2019-02-24 19:12:29 --> Language Class Initialized
+INFO - 2019-02-24 19:12:29 --> Language Class Initialized
+INFO - 2019-02-24 19:12:29 --> Config Class Initialized
+INFO - 2019-02-24 19:12:29 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:29 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:29 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:29 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:29 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:29 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:29 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:29 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:29 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:29 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:29 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:29 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:29 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:29 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:29 --> Total execution time: 1.4386
+INFO - 2019-02-24 19:12:30 --> Config Class Initialized
+INFO - 2019-02-24 19:12:30 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:30 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:30 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:30 --> URI Class Initialized
+INFO - 2019-02-24 19:12:30 --> Router Class Initialized
+INFO - 2019-02-24 19:12:30 --> Output Class Initialized
+INFO - 2019-02-24 19:12:30 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:30 --> Input Class Initialized
+INFO - 2019-02-24 19:12:30 --> Language Class Initialized
+INFO - 2019-02-24 19:12:30 --> Language Class Initialized
+INFO - 2019-02-24 19:12:30 --> Config Class Initialized
+INFO - 2019-02-24 19:12:30 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:30 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:30 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:30 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:30 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:30 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:31 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:31 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:31 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:31 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:31 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:31 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:31 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:31 --> Total execution time: 1.4240
+INFO - 2019-02-24 19:12:31 --> Config Class Initialized
+INFO - 2019-02-24 19:12:31 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:31 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:31 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:31 --> URI Class Initialized
+INFO - 2019-02-24 19:12:31 --> Router Class Initialized
+INFO - 2019-02-24 19:12:31 --> Output Class Initialized
+INFO - 2019-02-24 19:12:31 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:32 --> Input Class Initialized
+INFO - 2019-02-24 19:12:32 --> Language Class Initialized
+INFO - 2019-02-24 19:12:32 --> Language Class Initialized
+INFO - 2019-02-24 19:12:32 --> Config Class Initialized
+INFO - 2019-02-24 19:12:32 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:32 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:32 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:32 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:32 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:32 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:32 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:32 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:32 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:32 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:32 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:32 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:33 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:33 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:33 --> Total execution time: 1.5213
+INFO - 2019-02-24 19:12:33 --> Config Class Initialized
+INFO - 2019-02-24 19:12:33 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:33 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:33 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:33 --> URI Class Initialized
+INFO - 2019-02-24 19:12:33 --> Router Class Initialized
+INFO - 2019-02-24 19:12:33 --> Output Class Initialized
+INFO - 2019-02-24 19:12:33 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:33 --> Input Class Initialized
+INFO - 2019-02-24 19:12:33 --> Language Class Initialized
+INFO - 2019-02-24 19:12:33 --> Language Class Initialized
+INFO - 2019-02-24 19:12:33 --> Config Class Initialized
+INFO - 2019-02-24 19:12:33 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:33 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:34 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:34 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:34 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:34 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:34 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:34 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:34 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:34 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:34 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:34 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:34 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:34 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:34 --> Total execution time: 1.4258
+INFO - 2019-02-24 19:12:34 --> Config Class Initialized
+INFO - 2019-02-24 19:12:34 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:34 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:34 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:34 --> URI Class Initialized
+INFO - 2019-02-24 19:12:35 --> Router Class Initialized
+INFO - 2019-02-24 19:12:35 --> Output Class Initialized
+INFO - 2019-02-24 19:12:35 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:35 --> Input Class Initialized
+INFO - 2019-02-24 19:12:35 --> Language Class Initialized
+INFO - 2019-02-24 19:12:35 --> Language Class Initialized
+INFO - 2019-02-24 19:12:35 --> Config Class Initialized
+INFO - 2019-02-24 19:12:35 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:35 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:35 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:35 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:35 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:35 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:35 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:35 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:35 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:36 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:36 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:36 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:36 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:36 --> Total execution time: 1.4507
+INFO - 2019-02-24 19:12:36 --> Config Class Initialized
+INFO - 2019-02-24 19:12:36 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:36 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:36 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:36 --> URI Class Initialized
+INFO - 2019-02-24 19:12:36 --> Router Class Initialized
+INFO - 2019-02-24 19:12:36 --> Output Class Initialized
+INFO - 2019-02-24 19:12:36 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:36 --> Input Class Initialized
+INFO - 2019-02-24 19:12:36 --> Language Class Initialized
+INFO - 2019-02-24 19:12:36 --> Language Class Initialized
+INFO - 2019-02-24 19:12:37 --> Config Class Initialized
+INFO - 2019-02-24 19:12:37 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:37 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:37 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:37 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:37 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:37 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:37 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:37 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:37 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:37 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:37 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:37 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:37 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:37 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:37 --> Total execution time: 1.4874
+INFO - 2019-02-24 19:12:37 --> Config Class Initialized
+INFO - 2019-02-24 19:12:37 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:38 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:38 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:38 --> URI Class Initialized
+INFO - 2019-02-24 19:12:38 --> Router Class Initialized
+INFO - 2019-02-24 19:12:38 --> Output Class Initialized
+INFO - 2019-02-24 19:12:38 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:38 --> Input Class Initialized
+INFO - 2019-02-24 19:12:38 --> Language Class Initialized
+INFO - 2019-02-24 19:12:38 --> Language Class Initialized
+INFO - 2019-02-24 19:12:38 --> Config Class Initialized
+INFO - 2019-02-24 19:12:38 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:38 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:38 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:38 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:38 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:38 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:38 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:38 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:39 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:39 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:39 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:39 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:39 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:39 --> Total execution time: 1.4582
+INFO - 2019-02-24 19:12:39 --> Config Class Initialized
+INFO - 2019-02-24 19:12:39 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:39 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:39 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:39 --> URI Class Initialized
+INFO - 2019-02-24 19:12:39 --> Router Class Initialized
+INFO - 2019-02-24 19:12:39 --> Output Class Initialized
+INFO - 2019-02-24 19:12:39 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:40 --> Input Class Initialized
+INFO - 2019-02-24 19:12:40 --> Language Class Initialized
+INFO - 2019-02-24 19:12:40 --> Language Class Initialized
+INFO - 2019-02-24 19:12:40 --> Config Class Initialized
+INFO - 2019-02-24 19:12:40 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:40 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:40 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:40 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:40 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:40 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:40 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:40 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:40 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:40 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:40 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:41 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:41 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:41 --> Total execution time: 1.5478
+INFO - 2019-02-24 19:12:41 --> Config Class Initialized
+INFO - 2019-02-24 19:12:41 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:41 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:41 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:41 --> URI Class Initialized
+INFO - 2019-02-24 19:12:41 --> Router Class Initialized
+INFO - 2019-02-24 19:12:41 --> Output Class Initialized
+INFO - 2019-02-24 19:12:41 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:41 --> Input Class Initialized
+INFO - 2019-02-24 19:12:41 --> Language Class Initialized
+INFO - 2019-02-24 19:12:41 --> Language Class Initialized
+INFO - 2019-02-24 19:12:41 --> Config Class Initialized
+INFO - 2019-02-24 19:12:42 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:42 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:42 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:42 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:42 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:42 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:42 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:42 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:42 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:42 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:42 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:42 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:42 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:42 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:42 --> Total execution time: 1.5120
+INFO - 2019-02-24 19:12:42 --> Config Class Initialized
+INFO - 2019-02-24 19:12:42 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:43 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:43 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:43 --> URI Class Initialized
+INFO - 2019-02-24 19:12:43 --> Router Class Initialized
+INFO - 2019-02-24 19:12:43 --> Output Class Initialized
+INFO - 2019-02-24 19:12:43 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:43 --> Input Class Initialized
+INFO - 2019-02-24 19:12:43 --> Language Class Initialized
+INFO - 2019-02-24 19:12:43 --> Language Class Initialized
+INFO - 2019-02-24 19:12:43 --> Config Class Initialized
+INFO - 2019-02-24 19:12:43 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:43 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:43 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:43 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:43 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:43 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:43 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:44 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:44 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:44 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:44 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:44 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:44 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:44 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:44 --> Total execution time: 1.5036
+INFO - 2019-02-24 19:12:45 --> Config Class Initialized
+INFO - 2019-02-24 19:12:45 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:45 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:45 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:45 --> URI Class Initialized
+INFO - 2019-02-24 19:12:45 --> Router Class Initialized
+INFO - 2019-02-24 19:12:45 --> Output Class Initialized
+INFO - 2019-02-24 19:12:45 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:45 --> Input Class Initialized
+INFO - 2019-02-24 19:12:45 --> Language Class Initialized
+INFO - 2019-02-24 19:12:45 --> Language Class Initialized
+INFO - 2019-02-24 19:12:46 --> Config Class Initialized
+INFO - 2019-02-24 19:12:46 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:46 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:46 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:46 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:46 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:46 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:46 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:46 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:46 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:46 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:46 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:46 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:46 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:46 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:46 --> Total execution time: 1.5621
+INFO - 2019-02-24 19:12:46 --> Config Class Initialized
+INFO - 2019-02-24 19:12:47 --> Hooks Class Initialized
+DEBUG - 2019-02-24 19:12:47 --> UTF-8 Support Enabled
+INFO - 2019-02-24 19:12:47 --> Utf8 Class Initialized
+INFO - 2019-02-24 19:12:47 --> URI Class Initialized
+INFO - 2019-02-24 19:12:47 --> Router Class Initialized
+INFO - 2019-02-24 19:12:47 --> Output Class Initialized
+INFO - 2019-02-24 19:12:47 --> Security Class Initialized
+DEBUG - 2019-02-24 19:12:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-24 19:12:47 --> Input Class Initialized
+INFO - 2019-02-24 19:12:47 --> Language Class Initialized
+INFO - 2019-02-24 19:12:47 --> Language Class Initialized
+INFO - 2019-02-24 19:12:47 --> Config Class Initialized
+INFO - 2019-02-24 19:12:47 --> Loader Class Initialized
+INFO - 2019-02-24 19:12:47 --> Helper loaded: html_helper
+INFO - 2019-02-24 19:12:47 --> Helper loaded: url_helper
+INFO - 2019-02-24 19:12:47 --> Helper loaded: form_helper
+INFO - 2019-02-24 19:12:47 --> Helper loaded: text_helper
+INFO - 2019-02-24 19:12:47 --> Helper loaded: string_helper
+INFO - 2019-02-24 19:12:48 --> Helper loaded: cookie_helper
+INFO - 2019-02-24 19:12:48 --> Database Driver Class Initialized
+INFO - 2019-02-24 19:12:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-24 19:12:48 --> Form Validation Class Initialized
+INFO - 2019-02-24 19:12:48 --> Controller Class Initialized
+DEBUG - 2019-02-24 19:12:48 --> Login MX_Controller Initialized
+ERROR - 2019-02-24 19:12:48 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\xampp\htdocs\hmvc\application\modules\login\views\signin.php 2
+DEBUG - 2019-02-24 19:12:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Login/views/signin.php
+INFO - 2019-02-24 19:12:48 --> Final output sent to browser
+DEBUG - 2019-02-24 19:12:48 --> Total execution time: 1.5224
