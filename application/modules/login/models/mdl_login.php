@@ -47,7 +47,7 @@
                 else 
                 {
                     echo "<script language='javascript'>
-                    alert('Incorrect Password. Please try again.');
+                    alert('Incorrect. Please try again.');
                     window.location='../Login/';
                     </script>";	
                 }

@@ -4,18 +4,21 @@
 
         public function __construct()
         {
-            parent::__construct();
+            // parent::__construct();
+            $this->clearCache();
             // Your own constructor code
         }
 
         function index()  //controller to load registration page
         {
+            $this->clearCache();
             $this->load->view('signin');
         } 
 
         function home()  //controller to load landing page
         {
-            $this->load->library('session');
+            $this->clearCache();
+            // $this->load->library('session');
             $this->load->view("index");
         }
 
@@ -32,12 +35,21 @@
 
         function logout()  //controller to logout
         {
+            $this->clearCache();
+            $this->load->helper('url');
             $this->session->sess_destroy();
             $this->load->view('signin');
             echo "<script language='javascript'>
                     alert('Thank you for visiting');
                     window.location='../Login';
                     </script>";	        
+        }
+
+        protected function clearCache()
+        {
+            header('Cache-Control: no-store, no-cache, must-revalidate');
+            header('Cache-Control: post-check=0, pre-check=0',false);
+            header('Pragma: no-cache'); 
         }
     }
 

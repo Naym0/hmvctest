@@ -19,7 +19,7 @@
 </head>
 <body>
     <br>
-    <h2> Welcome, <?php echo $_SESSION['username'];?> </h2>
+    <h2> Welcome, <?php echo $this->session->userdata('username');?> </h2>
     <p> This is the landing page. Thank you for visiting. </p>
     <img src="<?php echo base_url(); ?>assets/gif.gif"><br><br>
     <p> You may now <a href="<?php echo base_url();?>Login/logout" >log out</a> at your own leisure </p>
